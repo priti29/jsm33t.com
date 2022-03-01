@@ -668,7 +668,14 @@ function initPageSliders(){
     (function($){
         "use strict";
         
-        function owl_keynav(el){            
+        function owl_keynav(el){    
+            el.attr({
+                "aria-description": "carousel"
+            });
+            el.find(".owl-item").attr({
+                "role": "group",
+                "aria-description": "slide"
+            });        
             el.find(".owl-prev, .owl-next").attr({
                 "role": "button",
                 "tabindex": "0"

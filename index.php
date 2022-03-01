@@ -78,7 +78,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                             Melancholy , an original soundtrack , is out now on various platforms worldwide.
                                         </div>
                                         <div class="local-scroll">
-                                            <a href="#" class="btn btn-mod btn-w btn-medium btn-round">DOWNLOAD / STREAM</a>
+                                            <a href="/music/melancholy" class="btn btn-mod btn-w btn-medium btn-round">DOWNLOAD / STREAM</a>
                                         </div>
                                     </div>
                                 </div>
