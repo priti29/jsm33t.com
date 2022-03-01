@@ -92,7 +92,21 @@ function crt() {
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 
+<script src="pacman_files/pacman.js"></script>
+<script src="pacman_files/modernizr-1.5.min.js"></script>
 
+<script>
+
+  var el = document.getElementById("pacman");
+
+  if (Modernizr.canvas && Modernizr.localstorage && 
+      Modernizr.audio && (Modernizr.audio.ogg || Modernizr.audio.mp3)) {
+    window.setTimeout(function () { PACMAN.init(el, "./"); }, 0);
+  } else { 
+    el.innerHTML = "Sorry, needs a decent browser<br /><small>" + 
+      "(firefox 3.6+, Chrome 4+, Opera 10+ and Safari 4+)</small>";
+  }
+</script>
 
 
 
