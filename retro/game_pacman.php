@@ -1,22 +1,19 @@
 
 <?php include "header.php"; ?>
-<style>
-    
-</style>
+
 <div class="main-content" id="<?php echo empty($_GET['page'])?'pageContent':''; ?>">
 
 
 
 
-<div class="container">
-  <iframe src="https://jsm33t.com/retro/pacman_files/index.html" class="screen" width="800" height="600"></iframe>
 
-</div>
+  <iframe src="https://jsm33t.com/retro/pacman_files/index.html" class="screen" width="600" height="600"></iframe>
+
 
     
 
 </div>
-
+<script src="pacman_files/pacman.js"></script>
 <footer class="taskbar">
       <div class="row" style="margin-right: 0px;">
           <div class="col-8">

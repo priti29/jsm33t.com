@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?php
+
+ if(empty($_GET['page'])){
+     
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -28,10 +32,9 @@
         }
         }
 
+
 </style>
-<?php
-if(empty($_GET['page'])){   
-?>
+
 
 <body class=" windows-scrollbar" id="crt_main">
 
@@ -75,7 +78,6 @@ if(empty($_GET['page'])){
 
 </div>
     </nav>
-
 
     <?php
 }
