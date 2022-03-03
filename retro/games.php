@@ -25,52 +25,7 @@
     </div>
      <!-- OTHER-->
 
-     <div class="container">
-        <div class="card mb-4">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Pics Stuff</h4>
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-				<img src="https://en.wikipedia.org/wiki/File:Pac-man.png">
-				
-
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-				
-				
-
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-				
-				
-
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-
-
-            </div>
-        </div>
-    </div>
+     
 
      <footer class="taskbar">
       <div class="row" style="margin-right: 0px;">
