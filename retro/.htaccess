@@ -5,7 +5,7 @@ RewriteEngine On
 RewriteBase /
 
 
-
+DirectoryIndex home.php
 
 ## hide .php extension
 # To externally redirect /dir/foo.html to /dir/foo
