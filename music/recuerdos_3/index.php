@@ -20,7 +20,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
                             <span class="text-rotate">
                                Recuerdos 3,
-                            Umm ID ig
+                            Bollywood Bootleg EP
                             
                             </span>
                         </h2>
