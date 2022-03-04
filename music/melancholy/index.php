@@ -1,5 +1,5 @@
 <?php
-$title = "Home";
+$title = "Melancholy";
 $description = "Basic flex stuffs and all";
 $logo = "white";
 $home = "active";
