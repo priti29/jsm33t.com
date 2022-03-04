@@ -107,10 +107,15 @@ JS
 * [GSAP](https://greensock.com/gsap/)
 * [Isotope](https://isotope.metafizzy.co/)
 * [JQuery](https://jquery.com)
+* [Modernizr](https://modernizr.com/)
 
 Structuring / Templating
 * [XML](https://en.wikipedia.org/wiki/XML)
 * [Json](https://www.json.org/)
+
+Widgets
+* [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
