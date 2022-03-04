@@ -118,7 +118,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                           --
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="JSM33T%20-%20TITLI%20%5BDnB%20Remix%5D.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-download">&nbsp;</i>DOWNLOAD</a></td>
+                                                    <td class="align-right"><a href="JSM33T%20-%20TITLI%20%5BDnB%20Remix%5D.mp3" class="btn btn-mod btn-circle btn-dark btn-small"><i class="fa fa-download">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
                                                 
                                                 <tr>
@@ -128,7 +128,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                             --
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="JSM33T%20-%20Bulleya%20%5BDnB%20Remix%5D.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-download">&nbsp;</i>DOWNLOAD</a></td>
+                                                    <td class="align-right"><a href="JSM33T%20-%20Bulleya%20%5BDnB%20Remix%5D.mp3" class="btn btn-mod btn-circle btn-dark btn-small"><i class="fa fa-download">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
                                                 
                                               
