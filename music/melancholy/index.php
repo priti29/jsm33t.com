@@ -47,18 +47,18 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         <div class="col-md-4">
                             <blockquote>
                                 <p>
-                                    Some random mental gymnastics quote from a random place
+                                "I tell my piano the things I used to tell you"
                                 </p>
                                 <footer>
-                                    Lorem Ipsum
+                                Fredric Chopin
                                 </footer>
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        Jasmeet Singh a.k.a JSM33T is an electronic music producer from Jharsuguda, IN. known for his rendition and fusion of Bollywood with various genres which gained support from DJ nYk, Asad Gujral, DJ Richard, Akbar Sami and many more.
+                        Melancholy is a snapshot of the trajectory of an offbeat mind. The graticule of a depressed mind remains a mystery.
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        His recent original "Melancholy" released worldwide and gained support from some great names from the industry including Angus Powel.
+                       Jsm33t's recent work Melancholy gained an (enter text) support
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                             Melancholy , an original soundtrack , is out now on various platforms worldwide.
                                         </div>
                                         <div class="local-scroll">
-                                            <a href="#" class="btn btn-mod btn-w btn-medium btn-round">DOWNLOAD / STREAM</a>
+                                            <a href="#download" class="btn btn-mod btn-w btn-medium btn-round">DOWNLOAD / STREAM</a>
                                         </div>
                                     </div>
                                 </div>
@@ -92,6 +92,177 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     </div>
                 </section>
                 <!-- End Call Action Section -->
+
+              
+
+                  <!-- About Section -->
+                  <section class="page-section" id="download">
+              
+            
+                    <div class="container relative">                    
+                         
+                           
+                        <!-- Row -->
+                        <div class="row">
+                            <!-- Col -->
+                            <div class="col-lg-8 offset-lg-2">
+                                
+                                <!-- Nav Tabs -->
+                                <div class="align-center mb-40 mb-xs-30">
+                                    <ul role="tablist" class="nav nav-tabs tpl-minimal-tabs animate">
+                                        <li>
+                                            <a href="#stream" aria-controls="stream" class="nav-link active" data-bs-toggle="tab" role="tab" aria-selected="false">DOWNLOAD/STREAM</a>
+                                        </li>
+                                       
+                                       
+                                    </ul>
+                                </div>
+                                <!-- End Nav Tabs -->
+                                
+                                <!-- Tab panes -->
+                                <div class="tab-content section-text">
+                                    <div role="tabpanel" class="tab-pane fade show active" id="stream">
+                                        
+                                        <table class="table table-hover">
+                                            
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        STREAM
+                                                    </th>
+                                                    <th style="width:20%;">
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            
+                                            <tbody>
+                                       
+                                                <tr>
+                                                    <td>
+                                                        Youtube
+                                                        <div class="small">
+                                                          --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                    <td>
+                                                        Spotify
+                                                        <div class="small">
+                                                            --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                    <td>
+                                                        Soundcloud
+                                                        <div class="small">
+                                                            --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://soundcloud.com/jsm33t/melancholy"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-soundcloud">&nbsp;</i>STREAM</a></td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                    <td>
+                                                        Jiosaavn
+                                                        <div class="small">
+                                                          --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://www.jiosaavn.com/album/melancholy/y7CAslNFyoM_"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>
+                                                        Amazon
+                                                        <div class="small">
+                                                          --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://www.amazon.com/Melancholy-Jsm33t/dp/B08F74JGRW"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        Anghami
+                                                        <div class="small">
+                                                          --
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
+                                                </tr>
+
+                                            </tbody>
+                                        </table>
+                                        
+                                        <table class="table table-hover">
+                                            
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        DOWNLOAD
+                                                    </th>
+                                                    <th style="width:20%;">
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            
+                                            <tbody>
+                                                
+                                                <tr>
+                                                    <td>
+                                                        MP3
+                                                        <div class="small">
+                                                            320 kbps mp3 file
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>
+                                                        FLAC
+                                                        <div class="small">
+                                                            Download in flac. "less loss-less"
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>
+                                                        WAV
+                                                        <div class="small">
+                                                           Lossless wav
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                </tr>
+                                                
+                                              
+                                                
+                                            </tbody>
+                                        </table>
+                                        
+                                    </div>
+                             
+                                </div>
+                            
+                            </div>
+                            <!-- End Col -->
+                            
+                        </div>
+                        <!-- End Row -->
+                        
+                            
+                    </div>
+                </section>
+                <!-- End Menu Section -->
+            
     </main>
       
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>
