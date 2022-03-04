@@ -1,3 +1,52 @@
+
+
+
+
+
+
+      <div class="section-text tab-content tpl-minimal-tabs-cont">
+                     <div class="active fade in tab-pane"id="mini-one">
+                        <table class="table table-hover">
+                           <thead>
+                              <tr>
+                                 <th>JSM33T</th>
+                                 <th style="width:20%"></th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td>01. BULLEYA (DNB REMIX)</td>
+                                 <td class="align-right"><a href=" JSM33T%20-%20Bulleya%20%5BDnB%20Remix%5D.mp3"class="btn btn-circle btn-gray btn-mod btn-small"download><i class="fa fa-download"></i>DOWNLOAD</a></td>
+                              </tr>
+                              <tr>
+                                 <td>02. TITLI (DNB REMIX)</td>
+                                 <td class="align-right"><a href=" JSM33T%20-%20TITLI%20%5BDnB%20Remix%5D.mp3"class="btn btn-circle btn-gray btn-mod btn-small"download><i class="fa fa-download"></i>DOWNLOAD</a></td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
