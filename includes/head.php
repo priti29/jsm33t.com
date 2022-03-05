@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title><?php echo $title . " | Jsm33t" ?></title>
+        <title><?php echo $title?></title>
         <meta name="description" content="<?php echo $description ?>">    
         <meta charset="utf-8">
         <meta name="author" content="jsm33t via rhythm / themeforest">

@@ -4,28 +4,36 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
   <loc>http://jsm33t.com/</loc>
   <lastmod>2022-01-25T11:13:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+
+
+
 <url>
-  <loc>http://jsm33t.com/apps/</loc>
+  <loc>http://jsm33t.com/repository</loc>
   <lastmod>2022-01-25T11:13:40+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>http://jsm33t.com/repository/urban_dictionary/</loc>
+  <lastmod>2022-01-25T11:13:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jsm33t.com/repository/dork_tool</loc>
+  <lastmod>2022-01-25T11:13:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 <url>
   <loc>http://jsm33t.com/gallery/</loc>
   <lastmod>2022-01-25T11:13:40+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://jsm33t.com/apps/urban_dict/</loc>
-  <lastmod>2022-01-25T11:13:40+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jsm33t.com/gallery/asansol_glass_factory/</loc>
@@ -47,6 +55,13 @@
   <lastmod>2022-01-25T11:13:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>http://jsm33t.com/gallery/into_the_woods_1/</loc>
+  <lastmod>2022-01-25T11:13:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 
 
 </urlset>
