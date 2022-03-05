@@ -5,6 +5,9 @@ $logo = "white";
 $home = "active";
 $cur_stroke = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
+
+
+
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">

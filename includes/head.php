@@ -99,7 +99,7 @@
                                 <a href="/" class="<?php echo $home?>">Home</a>
                             </li>
                              <li>
-                                <a href="#" class="<!-- <?php echo $music?> --> "><del>Music</del></a>
+                                <a href="/music" class=" <?php echo $music?> ">Music</a>
                             </li>
                             <li>
                                 <a href="/repository" class="<?php echo $repo?>">REPO</a>
@@ -107,11 +107,9 @@
                             <li>
                                 <a href="/gallery" class="<?php echo $gallery?>">GALLERY</a>
                             </li>
+                     
                             <li>
-                                <a href="/people" class="<?php echo $people?>">PEOPLE</a>
-                            </li>
-                            <li>
-                                <a href="#" class="<?php echo $me?>"><del>ME</del></a>
+                                <a href="/me" class="<?php echo $me?>">ABOUT ME</a>
                             </li>
                             <li>
                                 <a href="/retro" >R3TR0</a>
@@ -153,4 +151,3 @@
                 
             </div>
             <!-- End Menu Overlay  -->
-   

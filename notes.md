@@ -1,5 +1,12 @@
 
 
+for undef variables
+if(!isset($home)) { $home = '';}
+if(!isset($gallery)){ $gallery = '';}
+if(!isset($music)){ $music = '' ;}
+if(!isset($repo)){ $repo = '';}
+if(!isset($me)){ $me = '';}
+
 
 
 
