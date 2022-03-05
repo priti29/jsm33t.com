@@ -6,11 +6,6 @@ if(!isset($gallery)){ $gallery = '';}
 if(!isset($music)){ $music = '' ;}
 if(!isset($repo)){ $repo = '';}
 if(!isset($me)){ $me = '';}
-
-
-
-
-
       <div class="section-text tab-content tpl-minimal-tabs-cont">
                      <div class="active fade in tab-pane"id="mini-one">
                         <table class="table table-hover">
@@ -32,7 +27,7 @@ if(!isset($me)){ $me = '';}
                            </tbody>
                         </table>
                      </div>
-                  </div>
+        </div>
 
 
 
