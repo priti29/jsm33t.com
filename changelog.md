@@ -2,6 +2,19 @@
 
 # Changelog
 
+## v0.3.0
+
+### Added or Changed
+- Added music dir
+- Added music files 
+- More organised code
+- Added retro mode
+### Removed
+
+- notes
+- extra comments
+
+<br>
 
 ## v0.2.0
 
