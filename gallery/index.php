@@ -1,6 +1,6 @@
 <?php
-$title = "Home";
-$description = "Basic flex stuffs and all";
+$title = "Orient Paper Mills | Gallery";
+$description = "Into the abandoned Paper Mills in Jharsuguda";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#b4a084";
@@ -119,20 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 </a>
                             </li>
 
-                            <li class="work-item mix mobile">
-                                <a href="/gallery/op_mills_ext/" class="work-ext-link">
-                                    <div class="work-img rcorner10">
-                                        <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
-                                    </div>
-                                    <div class="work-intro">
-                                        <h3 class="work-title">OP Mills (Exterior)</h3>
-                                        <div class="work-descr">
-                                            -Jsm33t
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <!-- End Work Item -->
+                       
                              <!-- Work Item (External Page) -->
                              <li class="work-item mix urbex">
                                 <a href="/gallery/into_the_woods_1/" class="work-ext-link">

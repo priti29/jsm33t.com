@@ -1,6 +1,6 @@
 <?php
-$title = "Into The Woods";
-$description = "Basic flex stuffs and all";
+$title = "Into the woods | Gallery";
+$description = "Into the woods -  Pratidnya Mhatre";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#fff";

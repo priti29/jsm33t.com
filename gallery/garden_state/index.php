@@ -1,5 +1,5 @@
 <?php
-$title = "Home";
+$title = "Garden State | Gallery";
 $description = "Basic flex stuffs and all";
 $logo = "white";
 $home = "active";

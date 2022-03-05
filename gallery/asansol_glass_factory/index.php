@@ -1,6 +1,6 @@
 <?php
-$title = "Home";
-$description = "Basic flex stuffs and all";
+$title = "Asansol Glass Factory | Gallery";
+$description = "Into the abandoned glass factory in Asansol";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#fff";
@@ -32,7 +32,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </section>
                 <!-- End Head Section -->
 
- <section class="page-section bg-dark-alfa-90 pt-80 pt-sm-60 pt-xs-40" data-background="header.jpg">
+                <section class="page-section bg-dark-alfa-90 pt-80 pt-sm-60 pt-xs-40" data-background="header.jpg">
                     <div class="container relative">
                         <!-- Title -->
                         <div class="container-fluid">

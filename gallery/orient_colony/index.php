@@ -1,6 +1,6 @@
 <?php
-$title = "Home";
-$description = "Basic flex stuffs and all";
+$title = "Orient Colony | Gallery";
+$description = "Into the abandoned colony in Jharsugida";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#fff";
