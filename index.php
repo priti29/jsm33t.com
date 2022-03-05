@@ -113,9 +113,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             
                             <!-- Work Item (Lightbox) -->
                             <li class="work-item mix music">
-                                <a href="/gallery/asansol_glass_factory/" class="work-ext-link">
+                                <a href="/music" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/asansol_glass_factory/cover.jpg" alt="Work" />
+                                        <img src="/resources/images/home_thumbs/music.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Music</h3>
@@ -129,9 +129,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                              <!-- Work Item (Lightbox) -->
                              <li class="work-item mix ">
-                                <a href="/gallery/orient_paper_mills/" class="work-ext-link">
+                                <a href="/repository" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/orient_paper_mills/cover.jpg" alt="Work" />
+                                    <img src="/resources/images/home_thumbs/repository.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Repository</h3>
@@ -143,9 +143,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </li>
 
                             <li class="work-item mix music">
-                                <a href="/gallery/garden_state/" class="work-ext-link">
+                                <a href="#" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img class="work-img" src="/gallery/garden_state/cover.jpg" alt="Work" />
+                                    <img src="/resources/images/home_thumbs/playlists.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Playlists</h3>
@@ -157,9 +157,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </li>
 
                               <li class="work-item mix mobile">
-                                <a href="/gallery/orient_colony/" class="work-ext-link">
+                                <a href="/retro" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
+                                    <img src="/resources/images/home_thumbs/retro.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Retro</h3>
@@ -171,9 +171,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </li>
 
                             <li class="work-item mix mobile">
-                                <a href="/gallery/op_mills_ext/" class="work-ext-link">
+                                <a href="/gallery" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
+                                    <img src="/resources/images/home_thumbs/gallery.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Gallery</h3>

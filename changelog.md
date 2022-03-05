@@ -3,6 +3,19 @@
 
 # Changelog
 
+
+## v0.5.0
+
+### Added or Changed
+- Added progressbar (ID)
+- Image optimisation
+- Code optimisation
+
+### Removed
+
+- eliminated useless css
+<br>
+
 ## v0.4.0
 
 ### Added or Changed
@@ -15,8 +28,6 @@
 
 <br>
 
-
-# Changelog
 
 ## v0.3.0
 

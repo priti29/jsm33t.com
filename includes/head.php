@@ -62,28 +62,28 @@
             }
 
             .header {
-  position: fixed;
-  top: 0;
-  z-index: 1;
-  width: 100%;
-  background-color: #f1f1f1;
-}
+            position: fixed;
+            top: 0;
+            z-index: 1;
+            width: 100%;
+            background-color: #f1f1f1;
+            }
 
 
-.progress-container {
-  width: 100%;
-  height: 1px;
-  background: #000;
-  opacity:0.8;
-  
-}
+            .progress-container {
+            width: 100%;
+            height: 1px;
+            background: #000;
+            opacity:0.8;
+            
+            }
 
-.progress-bar {
-  height: 1px;
-  background: #fff;
-  width: 0%;
-  
-}
+            .progress-bar {
+            height: 1px;
+            background: #fff;
+            width: 0%;
+            
+            }
 
 
         </style>
