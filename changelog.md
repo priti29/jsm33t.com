@@ -1,5 +1,21 @@
 [ [Readme](README.md) | > Change Log < | [Code Insight](code_insight.md) ]
 
+
+# Changelog
+
+## v0.4.0
+
+### Added or Changed
+- Added about me page
+- Added music files #2
+- Ajax navigation in retro mode
+### Removed
+
+- nothing
+
+<br>
+
+
 # Changelog
 
 ## v0.3.0
