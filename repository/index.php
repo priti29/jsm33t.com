@@ -91,16 +91,16 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         <div class="row mb-70">
                         <div class="col-sm-6">
                             <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-1.jpg" alt="" class="widget-posts-img" /></a>
+                               
                                 <div class="widget-posts-descr">
                                     <a href="#" title="">Yotube Downloader | BETA | limit 200/day</a>
                                     - jsm33t 
                                 </div>
                             </div>
                             <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-2.jpg" alt="" class="widget-posts-img" /></a>
+                               
                                 <div class="widget-posts-descr">
-                                    <a href="/apps/urban_dict" title="">Urban Dictionary | API | BETA</a>
+                                    <a href="/repository/urban_dictionary" title="">Urban Dictionary | API | BETA</a>
                                     Posted by John Doe 7 Mar 
                                 </div>
                             </div>
@@ -108,17 +108,17 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         </div>
                         <div class="col-sm-6">
                             <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-3.jpg" alt="" class="widget-posts-img" /></a>
+                                
                                 <div class="widget-posts-descr">
-                                    <a href="#" title="">Google Dork Tool</a>
-                                    - jsm33t
+                                    <a href="/repository/dork_tool" title="">Google Dork Tool</a>
+                                    jsm33t
                                 </div>
                             </div>
                             <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-4.jpg" alt="" class="widget-posts-img" /></a>
+                              
                                 <div class="widget-posts-descr">
-                                    <a href="#" title="">Hipster’s Style in Web Design and Logo</a>
-                                    Posted by John Doe 7 Mar 
+                                    <a href="#" title="">__</a>
+                                    __ 
                                 </div>
                             </div>
                         </div>

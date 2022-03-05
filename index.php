@@ -93,6 +93,99 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     </div>
                 </section>
                 <!-- End Call Action Section -->
+                   <!-- Portfolio Section -->
+                   <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
+                    <div class="container relative">
+                        
+                        <!-- Works Filter -->                    
+                        <div class="works-filter font-alt align-center" role="tablist">
+                            <a href="#" class="filter active" role="tab" aria-selected="true" data-filter="*">All</a>
+                            <a href="#urbex" class="filter" role="tab" aria-selected="false" data-filter=".music">Music</a>
+                            <a href="#mobile" class="filter" role="tab" aria-selected="false" data-filter=".mobile">Mobile</a>
+                        </div>                    
+                        <!-- End Works Filter -->
+                        
+                        <!-- Works Grid -->
+                        <ul class="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white" id="work-grid">
+                            
+                            <!-- Work Item (Lightbox) -->
+                            <li class="work-item mix music">
+                                <a href="/gallery/asansol_glass_factory/" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                        <img src="/gallery/asansol_glass_factory/cover.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Music</h3>
+                                        <div class="work-descr">
+                                            -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <!-- End Work Item -->
+
+                             <!-- Work Item (Lightbox) -->
+                             <li class="work-item mix ">
+                                <a href="/gallery/orient_paper_mills/" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                        <img src="/gallery/orient_paper_mills/cover.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Repository</h3>
+                                        <div class="work-descr">
+                                        -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="work-item mix music">
+                                <a href="/gallery/garden_state/" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                        <img class="work-img" src="/gallery/garden_state/cover.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Playlists</h3>
+                                        <div class="work-descr">
+                                            -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                              <li class="work-item mix mobile">
+                                <a href="/gallery/orient_colony/" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                        <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Retro</h3>
+                                        <div class="work-descr">
+                                            -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                            <li class="work-item mix mobile">
+                                <a href="/gallery/op_mills_ext/" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                        <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Gallery</h3>
+                                        <div class="work-descr">
+                                            -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+
+                        </ul>
+  
+                    </div>
+                </section>
+
     </main>
       
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>
