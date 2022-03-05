@@ -38,7 +38,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     <a href="#about" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i><span class="sr-only">Scroll to the next section</span></a>
                 </div>
             </div>
-        </section>
+</section>
                 
                 
                 <!-- Portfolio Section -->
