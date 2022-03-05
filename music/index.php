@@ -55,9 +55,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             
                             <!-- Work Item (Lightbox) -->
                             <li class="work-item mix originals">
-                                <a href="/gallery/asansol_glass_factory/" class="work-ext-link">
+                                <a href="/music/melancholy" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/asansol_glass_factory/cover.jpg" alt="Work" />
+                                    <img src="/music/melancholy/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Melancholy</h3>
@@ -71,9 +71,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                             <!-- Work Item (Lightbox) -->
                             <li class="work-item mix albums">
-                                <a href="/gallery/orient_paper_mills/" class="work-ext-link">
+                                <a href="/music/recuerdos_1" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/orient_paper_mills/cover.jpg" alt="Work" />
+                                        <img src="/music/melancholy/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 1</h3>
@@ -86,9 +86,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                               <!-- Work Item (Lightbox) -->
                             <li class="work-item mix albums">
-                                <a href="/gallery/orient_paper_mills/" class="work-ext-link">
+                                <a href="#" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/orient_paper_mills/cover.jpg" alt="Work" />
+                                    <img src="/music/melancholy/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 2</h3>
@@ -101,9 +101,9 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                             <!-- Work Item (Lightbox) -->
                             <li class="work-item mix albums">
-                                <a href="/gallery/orient_paper_mills/" class="work-ext-link">
+                            <a href="/music/recuerdos_3" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/gallery/orient_paper_mills/cover.jpg" alt="Work" />
+                                    <img src="/music/melancholy/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 3</h3>
