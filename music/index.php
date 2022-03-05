@@ -65,15 +65,10 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </div>
             </div>
         </section> 
-        
-        
-
-                </section>
-
 
                   <!-- Portfolio Section -->
-                  <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
-                    <div class="container relative">
+        <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
+        <div class="container relative">
                         
                         <!-- Works Filter -->                    
                         <div class="works-filter font-alt align-center" role="tablist">
@@ -146,17 +141,8 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                     </div>
                                 </a>
                             </li>
-
-
                         </ul>
-  
-                    </div>
-                </section>
-
-            <!-- Divider 
-            <hr class="mt-0 mb-0 "/>
-             End Divider -->
-           
+                    </div>        
+        </section>
     </main>
-      
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>
