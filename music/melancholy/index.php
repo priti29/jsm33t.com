@@ -14,7 +14,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     <div class="home-text">
                         <div class="font-alt mod-breadcrumbs">
                             <h3 class="hs-line-8 font-alt mb-50 mb-xs-30">
-                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span>HOME</span></center>
+                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span><a href="/">HOME</a></span>/<span><a href="/music">MUSIC</a></span>/<span>GALLERY</span></center>
                             </h3>
                         </div>
                         <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
@@ -55,45 +55,17 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        Melancholy is a snapshot of the trajectory of an offbeat mind. The graticule of a depressed mind remains a mystery.
+                        Melancholy is a snapshot of the trajectory of an offbeat mind. Experience the ambience of melancholy with an orchestral essence. HQ Mp3 and lossless formats available for free download
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                       Jsm33t's recent work Melancholy gained an (enter text) support
+                       Jsm33t's recent work Melancholy gained an international support. Track being appreciated by the big names from the indian music industry like Zoheb Khan to the man behind one of the Netflix series elementary's soundtracks, Angus Powel.
                         </div>
                     </div>
                 </div>
             </div>
         </section> 
         
-          <!-- Call Action Section -->  
-          <section class="page-section pt-0 pb-0 banner-section bg-dark-alfa-70" data-background="/resources/images/home.jpg">
-                    <div class="container relative">
-                        <div class="row">
-                            <div class="col-sm-6"> 
-                                <div class="mt-140 mt-lg-80 mb-140 mb-lg-80">
-                                    <div class="banner-content">
-                                        <h3 class="banner-heading font-alt">Did you check my latest composition??</h3>
-                                        <div class="banner-decription">
-                                            Melancholy , an original soundtrack , is out now on various platforms worldwide.
-                                        </div>
-                                        <div class="local-scroll">
-                                            <a href="#download" class="btn btn-mod btn-w btn-medium btn-round">DOWNLOAD / STREAM</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-sm-6 banner-image wow fadeInUp">
-                                <img src="/resources/images/promo.png"" alt="" />
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </section>
-                <!-- End Call Action Section -->
-
-              
+        
 
                   <!-- About Section -->
                   <section class="page-section" id="download">
@@ -144,7 +116,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                           --
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
+                                                    <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
                                                 </tr>
                                                 
                                                 <tr>
@@ -154,7 +126,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                             --
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
+                                                    <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
                                                 </tr>
                                                 
                                                 <tr>
@@ -223,8 +195,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                     <td class="align-right"><a href="https://localhost/music/melancholy/JSM33T%20-%20Melancholy.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
 
-                                              
-
                                                 <tr>
                                                     <td>
                                                         WAV
@@ -232,29 +202,20 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                            Lossless wav
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="https://localhost/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                    <td class="align-right"><a href="https://localhost/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
-                                                
-                                              
-                                                
+
                                             </tbody>
                                         </table>
-                                        
                                     </div>
-                             
                                 </div>
-                            
                             </div>
                             <!-- End Col -->
-                            
                         </div>
                         <!-- End Row -->
-                        
-                            
                     </div>
                 </section>
                 <!-- End Menu Section -->
-            
     </main>
       
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>

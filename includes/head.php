@@ -60,6 +60,32 @@
             {
                 ext-indent: 2px;
             }
+
+            .header {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+
+.progress-container {
+  width: 100%;
+  height: 1px;
+  background: #000;
+  opacity:0.8;
+  
+}
+
+.progress-bar {
+  height: 1px;
+  background: #fff;
+  width: 0%;
+  
+}
+
+
         </style>
         <script>
         function showResult(str) {
@@ -85,6 +111,12 @@
         <div class="page-loader">
             <div class="loader">Loading...</div>
         </div>
+        <div class="header">
+  
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
         <a href="#main" class="btn skip-to-content">Skip to Content</a>
         <div class="page" id="top">
             <div class="fm-logo-wrap local-scroll <?php echo $logo_visibility ?>">

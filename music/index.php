@@ -14,7 +14,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     <div class="home-text">
                         <div class="font-alt mod-breadcrumbs">
                             <h3 class="hs-line-8 font-alt mb-50 mb-xs-30">
-                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span>HOME</span></center>
+                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span><a href="/">HOME</span>&nbsp;/<span><a href="/music">&nbsp;MUSIC</a></span></center>
                             </h3>
                         </div>
                         <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
@@ -38,35 +38,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </div>
             </div>
         </section>
-        <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/home.jpg" id="about">
-            <div class="container relative">
-                <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                    About Me
-                </h2>
-                <div class="section-text mb-50 mb-sm-20">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <blockquote>
-                                <p>
-                                    Some random mental gymnastics quote from a random place
-                                </p>
-                                <footer>
-                                    Lorem Ipsum
-                                </footer>
-                            </blockquote>
-                        </div>
-                        <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        Jasmeet Singh a.k.a JSM33T is an electronic music producer from Jharsuguda, IN. known for his rendition and fusion of Bollywood with various genres which gained support from DJ nYk, Asad Gujral, DJ Richard, Akbar Sami and many more.
-                        </div>
-                        <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        His recent original "Melancholy" released worldwide and gained support from some great names from the industry including Angus Powel.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> 
 
-                  <!-- Portfolio Section -->
         <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
         <div class="container relative">
                         
