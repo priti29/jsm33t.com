@@ -4,12 +4,13 @@ $description = "Basic flex stuffs and all";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#1d978d";
+$prog_color = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 
-
-
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
+
 ?>      
+
     <main id="main" >
         <section class="home-section bg-dark-alfa-70 parallax-2" data-background="/resources/images/home.jpg" id="home">
             <div class="js-height-full container">
