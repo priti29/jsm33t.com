@@ -216,6 +216,56 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     </div>
                 </section>
                 <!-- End Menu Section -->
+                <?php
+$path = $_SERVER['DOCUMENT_ROOT'] . "/database/testimonials.xml";
+$xmlfile = file_get_contents($path);
+$new = simplexml_load_string($xmlfile);
+$con = json_encode($new);
+$json = json_decode($con, true);  
+?>            
+                
+                <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="images/full-width-images/section-bg-3.jpg">       
+
+<?php
+foreach($json as $elem)  
+{
+    for ($x = 0; $x < count($elem[1]['test']); $x++) 
+    {
+        
+        ?>
+        <div>
+        <div class="container relative">
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 align-center">
+                    <!-- Section Icon -->
+                    <div class="section-icon">
+                        <span class="icon-quote"></span>
+                    </div>
+                    <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
+                    <blockquote class="testimonial white">
+                        <p>
+                        <?php  echo $elem[1]['test'][$x]['title']; ?>
+                        </p>
+                        <footer class="testimonial-author">
+                        <?php  echo $elem[1]['test'][$x]['author']; ?>
+                        </footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+<?php
+
+    }
+}
+  
+
+?>
+                    
+  
+                </section>
+                <!-- End Testimonials Section -->
+                
     </main>
       
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>

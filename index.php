@@ -95,7 +95,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </section>
                 <!-- End Call Action Section -->
                    <!-- Portfolio Section -->
-                   <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
+                <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
                     <div class="container relative">
                         
                         <!-- Works Filter -->                    
@@ -181,9 +181,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                     </div>
                                 </a>
                             </li>
-
                         </ul>
-  
                     </div>
                 </section>
 

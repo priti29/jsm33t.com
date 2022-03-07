@@ -112,11 +112,10 @@
             <div class="loader">Loading...</div>
         </div>
         <div class="header">
-  
-  <div class="progress-container">
-    <div class="progress-bar" id="myBar"></div>
-  </div>  
-</div>
+            <div class="progress-container">
+                <div class="progress-bar" id="myBar"></div>
+            </div>  
+        </div>
         <a href="#main" class="btn skip-to-content">Skip to Content</a>
         <div class="page" id="top">
             <div class="fm-logo-wrap local-scroll <?php echo $logo_visibility ?>">
@@ -154,7 +153,7 @@
                                         <div class="mn-wrap">
                                             <form method="post" class="form align-center">
                                                 <div class="search-wrap inline-block fm-search">             
-                                                    <input  type="text" class="form-control search-field round" size="30" 
+                                                    <input type="text" class="form-control search-field round" size="30" 
                                                             onkeyup="showResult(this.value)"
                                                             placeholder="Search..."
                                                     >
@@ -169,7 +168,7 @@
                             
                         </ul>
                         
-                        <!-- Social Links -->
+                        <!--My Social Handles -->
                         <div
                          class="fm-social-links">
                             <a href="https://facebook.com/jsm33t" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>    
