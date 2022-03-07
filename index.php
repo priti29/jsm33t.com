@@ -1,6 +1,6 @@
 <?php
 $title = "Home";
-$description = "Basic flex stuffs and all";
+$description = "JSM33T | Just a website";
 $logo = "white";
 $home = "active";
 $cur_stroke = "#1d978d";
@@ -67,7 +67,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </div>
             </div>
         </section> 
-        
           <!-- Call Action Section -->  
           <section class="page-section pt-0 pb-0 banner-section bg-dark-alfa-70" data-background="/resources/images/home.jpg">
                     <div class="container relative">
