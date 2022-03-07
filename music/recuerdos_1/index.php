@@ -19,8 +19,8 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         </div>
                         <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
                             <span class="text-rotate">
-                               Melancholy,
-                            The darknesss within
+                               Recuerdos 1,
+                            Bootleg Album
                             
                             </span>
                         </h2>
