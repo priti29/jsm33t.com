@@ -73,7 +73,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             <li class="work-item mix albums">
                                 <a href="/music/recuerdos_1" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                        <img src="/music/melancholy/thumb.jpg" alt="Work" />
+                                        <img src="/music/recuerdos_1/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 1</h3>
@@ -88,7 +88,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             <li class="work-item mix albums">
                                 <a href="#" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                    <img src="/music/melancholy/thumb.jpg" alt="Work" />
+                                    <img src="/music/recuerdos_2/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 2</h3>
@@ -103,7 +103,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             <li class="work-item mix albums">
                             <a href="/music/recuerdos_3" class="work-ext-link">
                                     <div class="work-img rcorner10">
-                                    <img src="/music/melancholy/thumb.jpg" alt="Work" />
+                                    <img src="/music/recuerdos_3/thumb.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Recuerdos Ep. 3</h3>

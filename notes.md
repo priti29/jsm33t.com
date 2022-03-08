@@ -69,6 +69,7 @@ button {
 
 
 
+
 <button onclick="openFullscreen();">Open Fullscreen</button>
 <button onclick="closeFullscreen();">Close Fullscreen</button>
 

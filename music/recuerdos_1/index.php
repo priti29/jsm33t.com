@@ -39,7 +39,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
       </section>
 
 
-      <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/home.jpg" id="about">
+      <section class="page-section bg-light-alfa-90 parallax-2" data-background="cover.jpg" id="about">
             <div class="container relative">
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                     Recuerdos EP. 1
@@ -57,10 +57,10 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                      Initial bootleg album
+                      First bootleg album consisting of my initial selected remixes from 2016-17
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                      A brief description
+                      
                         </div>
                     </div>
                 </div>
