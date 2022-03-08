@@ -1,5 +1,5 @@
 <?php
-$title = "Home";
+$title = "JSM33T";
 $description = "JSM33T | Just a website";
 $logo = "white";
 $home = "active";
