@@ -1,11 +1,14 @@
 <?php
-$title = "Melancholy";
-$description = "Basic flex stuffs and all";
+$title = "Recuerdos 1 (Album)";
+$description = "Bootleg Album by Jsm33t";
+
 $logo = "white";
 $home = "active";
 $cur_stroke = "#9c9c9c";
 $logo_visibility = "d-none d-md-block d-lg-block";
+
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
+
 ?>      
    <main id="main">
       <section class="home-section bg-dark-alfa-70 parallax-2" data-background="cover.jpg" id="home">
@@ -18,11 +21,10 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             </h3>
                         </div>
                         <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
-                            <span class="text-rotate">
-                               Recuerdos 1,
-                            Bootleg Album
-                            
-                            </span>
+                           <span class="text-rotate">
+                              Recuerdos 1,
+                              Bootleg Album
+                           </span>
                         </h2>
                         <span class="d-lg-none d-md-none d-lg-inline-block"><br></span>
                         <div class="local-scroll">
@@ -37,35 +39,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </div>
             </div>
       </section>
-
-
-      <section class="page-section bg-light-alfa-90 parallax-2" data-background="cover.jpg" id="about">
-            <div class="container relative">
-                <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                    Recuerdos EP. 1
-                </h2>
-                <div class="section-text mb-50 mb-sm-20">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <blockquote>
-                                <p>
-                                "I tell my piano the things I used to tell you"
-                                </p>
-                                <footer>
-                                Fredric Chopin
-                                </footer>
-                            </blockquote>
-                        </div>
-                        <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                      First bootleg album consisting of my initial selected remixes from 2016-17
-                        </div>
-                        <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                      
-                        </div>
-                    </div>
-                </div>
-            </div>
-      </section> 
 
       <section class="page-section" id="download">
       <div class="container relative">
