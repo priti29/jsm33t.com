@@ -1,11 +1,20 @@
 
+vars:
+
+$title = "Home";
+$description = "JSM33T | Just a website";
+$logo = "white";
+$home = "active";
+$cur_stroke = "#1d978d";
+$prog_color = "#1d978d";
+$logo_visibility = "d-none d-md-block d-lg-block";
+$fav_icon = "location"
+
 
 for undef variables
 if(!isset($home)) { $home = '';}
-if(!isset($gallery)){ $gallery = '';}
-if(!isset($music)){ $music = '' ;}
-if(!isset($repo)){ $repo = '';}
-if(!isset($me)){ $me = '';}
+
+
       <div class="section-text tab-content tpl-minimal-tabs-cont">
                      <div class="active fade in tab-pane"id="mini-one">
                         <table class="table table-hover">

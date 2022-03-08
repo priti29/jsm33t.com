@@ -6,10 +6,14 @@
         <meta charset="utf-8">
         <meta name="author" content="jsm33t via rhythm / themeforest">
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+        <?php if(!isset($meta_tags)){ $meta_tags = 'jsm33t ,Music, blogs, coder , bootlegs';} ?>
+        <meta name="keywords" content="<?php echo $meta_tags?>">
+
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
         <?php if(!isset($fav_icon)){ $fav_icon = 'resources/images/default_fav_icon.png';} ?>
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
-        
+
 		<link rel="stylesheet" href="/resources/css/maincur.css">
         <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
         <link rel="stylesheet" href="/resources/css/style.css">
@@ -31,7 +35,6 @@
                 font-family: soleil, sans-serif;
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
-            
                 --cursor-stroke: <?php echo $cur_stroke?>;
                 --cursor-fill: none;
                 --cursor-stroke-width: 1px;
@@ -127,9 +130,6 @@
             <div class="fm-wrapper" id="fullscreen-menu">
                 <div class="fm-wrapper-sub">
                     <div class="fm-wrapper-sub-sub">
-
-
-
 
 <?php 
 

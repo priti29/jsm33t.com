@@ -3,6 +3,76 @@
 
 # Changelog
 
+## v1.0.0 Initial release
+
+### Added or Changed
+- Meta tags (final)
+- Keywords (final)
+- Sitemap update
+- Submit for indexing
+
+### Removed
+
+
+<br>
+
+
+## v0.9.0
+
+### Added or Changed
+- Meta tags (final)
+- Keywords (final)
+- Sitemap update
+- Submit for indexing
+
+### Removed
+
+
+<br>
+
+## v0.8.0
+
+### Added or Changed
+- Meta tags 
+- Keywords
+
+### Removed
+
+- extra gfx
+- dummy images
+
+<br>
+
+## v0.7.0
+
+### Added or Changed
+- Meta tags (init)
+- Keywords (init)
+- Image optimisation
+- Code optimisation
+
+### Removed
+
+- eliminated useless variables
+
+<br>
+
+## v0.6.0
+
+### Added or Changed
+- Added music files (complete)
+- Imrpoved Logic
+- Addded default handlers
+- Fixed Progressbar
+- Image optimisation
+- Code optimisation
+
+### Removed
+
+- eliminated useless variables
+
+<br>
+
 
 ## v0.5.0
 
