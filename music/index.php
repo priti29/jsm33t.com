@@ -2,8 +2,7 @@
 $title = "Music";
 $description = "Basic flex stuffs and all";
 $logo = "white";
-$music = "active";
-$music_l = "#";
+$music = ' href="/music" onClick="return false;" class="active" ';
 $cur_stroke = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";

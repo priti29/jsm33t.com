@@ -1,14 +1,10 @@
-
-
-
-
-
-                <?php
+ <?php
 $title = "Apps";
 $description = "Basic flex stuffs and all";
+$repo = ' href="/repository" onClick="return false;" class="active" ';
 $logo = "white";
-$repo = "active";
 $cur_stroke = "#000";
+$prog_color = "#1d978d";
 
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 

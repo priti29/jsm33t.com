@@ -11,7 +11,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <?php if(!isset($fav_icon)){ $fav_icon = '/resources/images/fav_icon.png';} ?>
+        <?php if(!isset($fav_icon)){ $fav_icon = 'resources/images/fav_icon.png';} ?>
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
 
 		<link rel="stylesheet" href="/resources/css/maincur.css">
@@ -90,7 +90,6 @@
             
             }
 
-
         </style>
         <script>
         function showResult(str) {
@@ -123,6 +122,7 @@
         </div>
         <a href="#main" class="btn skip-to-content">Skip to Content</a>
         <div class="page" id="top">
+        <?php if(!isset($logo_visibility)) { $logo_visibility = 'd-none d-md-block d-lg-block';} ?>
             <div class="fm-logo-wrap local-scroll <?php echo $logo_visibility ?>">
                 <a href="/" class="logo"><img src="/resources/images/j_logo_<?php echo $logo ?>.svg" width="152" height="54" alt="" /></a>
             </div>
@@ -133,36 +133,31 @@
 
 <?php 
 
-if(!isset($home)) { $home = '';}
-if(!isset($gallery)){ $gallery = '';}
-if(!isset($music)){ $music = '' ;}
-if(!isset($repo)){ $repo = '';}
-if(!isset($me)){ $me = '';}
+if(!isset($home)) { $home = 'href="/" ';}
+if(!isset($music)){ $music = 'href ="/music"' ;}
+if(!isset($gallery)){ $gallery = 'href="/gallery"';}
+if(!isset($repo)){ $repo = 'href="/repository"';}
+if(!isset($me)){ $me = 'href ="/me"' ;}
 
-if(!isset($home_l)) { $home_l = '/';}
-if(!isset($gallery_l)){ $gallery_l = '/gallery';}
-if(!isset($music_l)){ $music_l = '/music' ;}
-if(!isset($repo_l)){ $repo_l = '/repository';}
-if(!isset($me_l)){ $me_l = '/me';}
 
 ?>
 
                         <ul class="fm-menu-links local-scroll">
                             <li>
-                                <a href="<?php echo $home_l?>" class="<?php echo $home?>">Home</a>
+                                <a <?php echo $home?> >Home</a>
                             </li>
                              <li>
-                                <a href="<?php echo $music_l?>" class=" <?php echo $music?> ">Music</a>
+                                <a <?php echo $music?> >Music</a>
                             </li>
                             <li>
-                                <a href="<?php echo $repo_l?>" class="<?php echo $repo?>">REPO</a>
+                                <a <?php echo $repo?> >REPO</a>
                             </li>
                             <li>
-                                <a href="<?php echo $gallery_l?>" class="<?php echo $gallery?>">GALLERY</a>
+                                <a <?php echo $gallery?> >GALLERY</a>
                             </li>
                      
                             <li>
-                                <a href="<?php echo $me_l?>" class="<?php echo $me?>">ABOUT ME</a>
+                                <a <?php echo $me?> >ABOUT ME</a>
                             </li>
                             <li>
                                 <a href="/retro" >R3TR0</a>

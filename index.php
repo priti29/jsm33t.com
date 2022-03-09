@@ -2,11 +2,10 @@
 $title = "JSM33T";
 $description = "JSM33T | Just a website";
 $logo = "white";
-$home = "active";
-$home_l = "#";
+$home = ' href="/" onClick="return false;" class="active" ';
 $cur_stroke = "#1d978d";
 $prog_color = "#1d978d";
-$logo_visibility = "d-none d-md-block d-lg-block";
+$logo_visibility = " d-sm-block d-lg-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
 
