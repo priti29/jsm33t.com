@@ -2,7 +2,8 @@
 $title = "Music";
 $description = "Basic flex stuffs and all";
 $logo = "white";
-$home = "active";
+$music = "active";
+$music_l = "#";
 $cur_stroke = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
@@ -39,7 +40,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
             </div>
         </section>
 
-        <section class="page-section bg-light-alfa-90 parallax-9" data-background="cover.jpg" id="about">
+        <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/music.jpg" id="about">
         <div class="container relative">
                         
                         <!-- Works Filter -->                    

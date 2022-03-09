@@ -11,7 +11,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <?php if(!isset($fav_icon)){ $fav_icon = 'resources/images/default_fav_icon.png';} ?>
+        <?php if(!isset($fav_icon)){ $fav_icon = '/resources/images/fav_icon.png';} ?>
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
 
 		<link rel="stylesheet" href="/resources/css/maincur.css">
@@ -139,24 +139,30 @@ if(!isset($music)){ $music = '' ;}
 if(!isset($repo)){ $repo = '';}
 if(!isset($me)){ $me = '';}
 
+if(!isset($home_l)) { $home_l = '/';}
+if(!isset($gallery_l)){ $gallery_l = '/gallery';}
+if(!isset($music_l)){ $music_l = '/music' ;}
+if(!isset($repo_l)){ $repo_l = '/repository';}
+if(!isset($me_l)){ $me_l = '/me';}
+
 ?>
 
                         <ul class="fm-menu-links local-scroll">
                             <li>
-                                <a href="/" class="<?php echo $home?>">Home</a>
+                                <a href="<?php echo $home_l?>" class="<?php echo $home?>">Home</a>
                             </li>
                              <li>
-                                <a href="/music" class=" <?php echo $music?> ">Music</a>
+                                <a href="<?php echo $music_l?>" class=" <?php echo $music?> ">Music</a>
                             </li>
                             <li>
-                                <a href="/repository" class="<?php echo $repo?>">REPO</a>
+                                <a href="<?php echo $repo_l?>" class="<?php echo $repo?>">REPO</a>
                             </li>
                             <li>
-                                <a href="/gallery" class="<?php echo $gallery?>">GALLERY</a>
+                                <a href="<?php echo $gallery_l?>" class="<?php echo $gallery?>">GALLERY</a>
                             </li>
                      
                             <li>
-                                <a href="/me" class="<?php echo $me?>">ABOUT ME</a>
+                                <a href="<?php echo $me_l?>" class="<?php echo $me?>">ABOUT ME</a>
                             </li>
                             <li>
                                 <a href="/retro" >R3TR0</a>

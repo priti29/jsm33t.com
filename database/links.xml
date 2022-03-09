@@ -6,8 +6,8 @@
 </link>
 
 <link>
-<title>APPS</title>
-<url>/apps</url>
+<title>REPOSITORY</title>
+<url>/repository</url>
 </link>
 
 <link>
@@ -15,14 +15,26 @@
 <url>/gallery</url>
 </link>
 
+
 <link>
 <title>MUSIC</title>
 <url>/music</url>
 </link>
-
 <link>
 <title>MELANCHOLY</title>
 <url>/music/melancholy</url>
+</link>
+<link>
+<title>RECUERDOS 1</title>
+<url>/music/recuerdos_1</url>
+</link>
+<link>
+<title>RECUERDOS 2</title>
+<url>/music/recuerdos_2</url>
+</link>
+<link>
+<title>RECUERDOS 3</title>
+<url>/music/recuerdos_3</url>
 </link>
 
 </pages>
