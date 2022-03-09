@@ -225,7 +225,7 @@ $con = json_encode($new);
 $json = json_decode($con, true);  
 ?>            
                 
-                <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="images/full-width-images/section-bg-3.jpg">       
+                <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="cover.jpg">       
 
 <?php
 foreach($json as $elem)  

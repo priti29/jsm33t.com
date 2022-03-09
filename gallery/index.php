@@ -2,7 +2,7 @@
 $title = "Orient Paper Mills | Gallery";
 $description = "Into the abandoned Paper Mills in Jharsuguda";
 $logo = "white";
-$home = ' href="/" onClick="return false;" class="active" ';
+$gallery = ' href="/gallery" onClick="return false;" class="active" ';
 $cur_stroke = "#b4a084";
 $prog_color = "#1d978d";
 $logo_visibility = " d-none";
