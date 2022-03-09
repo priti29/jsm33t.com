@@ -27,8 +27,8 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 </div>
                             </div>
                         </div>
-                        <!-- End Hero Content -->
-                           <!-- Scroll Down -->
+                            <!-- End Hero Content -->
+                            <!-- Scroll Down -->
                            <div class="local-scroll">
                             <a href="#menu" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i><span class="sr-only">Scroll to the next section</span></a>
                         </div>
