@@ -2,8 +2,9 @@
 $title = "Melancholy";
 $description = "Basic flex stuffs and all";
 $logo = "white";
-$home = "active";
+$music = ' href="/music" class="active" ';
 $cur_stroke = "#9c9c9c";
+$prog_color = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      

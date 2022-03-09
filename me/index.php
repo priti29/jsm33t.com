@@ -2,8 +2,9 @@
 $title = "About Me | jsm33t";
 $description = "Basic flex stuffs and all";
 $logo = "white";
-$me = "active";
+$home = ' href="/me" onClick="return false;" class="active" ';
 $cur_stroke = "#1d978d";
+$prog_color = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 
 

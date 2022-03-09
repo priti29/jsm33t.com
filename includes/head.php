@@ -11,7 +11,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <?php if(!isset($fav_icon)){ $fav_icon = 'resources/images/fav_icon.png';} ?>
+        <?php if(!isset($fav_icon)){ $fav_icon = '/resources/images/fav_icon.png';} ?>
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
 
 		<link rel="stylesheet" href="/resources/css/maincur.css">
