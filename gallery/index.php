@@ -4,7 +4,7 @@ $description = "Into the abandoned Paper Mills in Jharsuguda";
 $logo = "white";
 $gallery = ' href="/gallery" onClick="return false;" class="active" ';
 $cur_stroke = "#b4a084";
-$prog_color = "#1d978d";
+$prog_color = "#b4a084";
 $logo_visibility = " d-none";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      

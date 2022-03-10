@@ -84,7 +84,7 @@
             }
       <?php if(!isset($prog_color)){ $prog_color = '#1d978d';} ?>
             .progress-bar {
-            height: 2px;
+            height: 3px;
             background: <?php echo $prog_color?>;
             width: 0%;
             
