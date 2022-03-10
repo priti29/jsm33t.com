@@ -1,7 +1,6 @@
 <?php
 $title = "Recuerdos 1 (Album)";
 $description = "Bootleg Album by Jsm33t";
-
 $logo = "white";
 $music = ' href="/music" class="active" ';
 $cur_stroke = "#9c9c9c";
@@ -12,36 +11,29 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
 ?>      
    <main id="main">
-      <section class="home-section bg-dark-alfa-70 parallax-2" data-background="cover.jpg" id="home">
-            <div class="js-height-full container">
-                <div class="home-content">
-                    <div class="home-text">
-                        <div class="font-alt mod-breadcrumbs">
-                            <h3 class="hs-line-8 font-alt mb-50 mb-xs-30">
-                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span>HOME</span></center>
-                            </h3>
-                        </div>
-                        <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
-                           <span class="text-rotate">
-                              Recuerdos 1,
-                              Bootleg Album
-                           </span>
-                        </h2>
-                        <span class="d-lg-none d-md-none d-lg-inline-block"><br></span>
-                        <div class="local-scroll">
-                            <a href="https://www.youtube.com/watch?v=Uz-JMggtvJQ" class="btn btn-mod btn-border-w btn-circle btn-medium lightbox mfp-iframe d-none d-sm-inline-block">PLAY MIXTAPE</a>
-                            <span class="d-none d-sm-inline-block">&nbsp;</span>
-                            <a  href="#about"  class="btn btn-mod btn-border-w btn-circle btn-medium ">SEE MORE</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="local-scroll">
-                    <a href="#about" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i><span class="sr-only">Scroll to the next section</span></a>
-                </div>
-            </div>
+   <section class="page-section bg-dark-alfa-30 parallax-3" data-background="/resources/svg/header_maroon.svg">
+         <div class="relative container align-left">
+                        
+             <div class="row">
+                            <div class="col-md-8">
+                                <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Recuerdos 1</h1>
+                                <div class="hs-line-4 font-alt">
+                                    Bootleg Album
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-4 mt-30">
+                                <div class="mod-breadcrumbs font-alt align-right">
+                                    <a href="/">Home</a>&nbsp;/&nbsp;<a href="/music">Music</a>&nbsp;/&nbsp;<span>Recuerdos_1</span>
+                                </div>
+                                
+                            </div>
+                        </div>                 
+         </div>
       </section>
+                <!-- End Head Section -->
 
-      <section class="page-section" id="download">
+      <section class="page-section" id="downloads">
       <div class="container relative">
          <!-- Row -->
          <div class="row">

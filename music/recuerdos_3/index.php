@@ -9,35 +9,26 @@ $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
-        <section class="home-section bg-dark-alfa-70 parallax-2" data-background="cover.jpg" id="home">
-            <div class="js-height-full container">
-                <div class="home-content">
-                    <div class="home-text">
-                        <div class="font-alt mod-breadcrumbs">
-                            <h3 class="hs-line-8 font-alt mb-50 mb-xs-30">
-                                <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span>HOME</span></center>
-                            </h3>
-                        </div>
-                        <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
-                            <span class="text-rotate">
-                               Recuerdos 3,
-                            Bollywood Bootleg EP
+    <section class="page-section bg-dark-alfa-70 parallax-3" data-background="cover.jpg">
+         <div class="relative container align-left">
+                        
+             <div class="row">
+                            <div class="col-md-8">
+                                <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Recuerdos 3</h1>
+                                <div class="hs-line-4 font-alt">
+                                    Bootleg Album ID
+                                </div>
+                            </div>
                             
-                            </span>
-                        </h2>
-                        <span class="d-lg-none d-md-none d-lg-inline-block"><br></span>
-                        <div class="local-scroll">
-                            <a href="https://www.youtube.com/watch?v=mTWvfrzzgTI" class="btn btn-mod btn-border-w btn-circle btn-medium lightbox mfp-iframe d-none d-sm-inline-block">PLAY REEL</a>
-                            <span class="d-none d-sm-inline-block">&nbsp;</span>
-                            <a  href="#about"  class="btn btn-mod btn-border-w btn-circle btn-medium ">SEE MORE</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="local-scroll">
-                    <a href="#about" class="scroll-down"><i class="fa fa-angle-down scroll-down-icon"></i><span class="sr-only">Scroll to the next section</span></a>
-                </div>
-            </div>
-        </section>
+                            <div class="col-md-4 mt-30">
+                                <div class="mod-breadcrumbs font-alt align-right">
+                                    <a href="/">Home</a>&nbsp;/&nbsp;<a href="/music">Music</a>&nbsp;/&nbsp;<span>Recuerdos_3</span>
+                                </div>
+                                
+                            </div>
+                        </div>                 
+         </div>
+      </section>
         <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/home.jpg" id="about">
             <div class="container relative">
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">

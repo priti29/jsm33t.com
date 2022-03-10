@@ -114,7 +114,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                     <td>
                                                         Youtube
                                                         <div class="small">
-                                                          --
+                                                          Stream
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
@@ -124,7 +124,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                     <td>
                                                         Spotify
                                                         <div class="small">
-                                                            --
+                                                            You know it
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
@@ -134,7 +134,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                     <td>
                                                         Soundcloud
                                                         <div class="small">
-                                                            --
+                                                        Umm You should know it
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://soundcloud.com/jsm33t/melancholy"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-soundcloud">&nbsp;</i>STREAM</a></td>
@@ -144,26 +144,35 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                     <td>
                                                         Jiosaavn
                                                         <div class="small">
-                                                          --
+                                                          You know it
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://www.jiosaavn.com/album/melancholy/y7CAslNFyoM_"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
                                                 </tr>
-
                                                 <tr>
                                                     <td>
                                                         Amazon
                                                         <div class="small">
-                                                          --
+                                                          Purchase
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://www.amazon.com/Melancholy-Jsm33t/dp/B08F74JGRW"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
                                                 </tr>
                                                 <tr>
                                                     <td>
+                                                        Resso
+                                                        <div class="small">
+                                                          A new gen music service
+                                                        </div>
+                                                    </td>
+                                                    <td class="align-right"><a href="https://www.resso.com/track?id=6856956516407302145"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
+                                                </tr>
+                                               
+                                                <tr>
+                                                    <td>
                                                         Anghami
                                                         <div class="small">
-                                                          --
+                                                          Music service for Middle East
                                                         </div>
                                                     </td>
                                                     <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
@@ -225,7 +234,7 @@ $con = json_encode($new);
 $json = json_decode($con, true);  
 ?>            
                 
-                <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="cover.jpg">       
+<section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="cover.jpg">       
 
 <?php
 foreach($json as $elem)  

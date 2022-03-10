@@ -139,7 +139,6 @@ if(!isset($gallery)){ $gallery = 'href="/gallery"';}
 if(!isset($repo)){ $repo = 'href="/repository"';}
 if(!isset($me)){ $me = 'href ="/me"' ;}
 
-
 ?>
 
                         <ul class="fm-menu-links local-scroll">
@@ -154,14 +153,14 @@ if(!isset($me)){ $me = 'href ="/me"' ;}
                                 <a <?php echo $gallery?> >GALLERY</a>
                             </li>
                      
-                     <!--      
-                                  <li>
+             <!--      
+                            <li>
                                 <a <?php echo $repo?> >REPO</a>
                             </li>
-                             <li>
+                            <li>
                                 <a <?php echo $me?> ><del>ABOUT ME</del></a>
                             </li>
-    -->
+             -->
                             <li>
                                 <a href="/retro" >R3TR0</a>
                             </li>

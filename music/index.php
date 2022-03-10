@@ -86,7 +86,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                               <!-- Work Item (Lightbox) -->
                             <li class="work-item mix albums">
-                                <a href="#" class="work-ext-link">
+                                <a href="/music/recuerdos_2" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                     <img src="/music/recuerdos_2/thumb.jpg" alt="Work" />
                                     </div>

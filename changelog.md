@@ -35,6 +35,10 @@
 ### Added or Changed
 - Meta tags 
 - Keywords
+- added svgs
+- image compression
+- css minimized
+- js minimized
 
 ### Removed
 

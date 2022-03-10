@@ -8,7 +8,6 @@ $prog_color = "#1d978d";
 $logo_visibility = "d-none d-md-block d-lg-block";
 
 
-
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
@@ -62,7 +61,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                             </div>
                                         </div>
                                     </div>
-                                    
                                     <div class="col-sm-6 offset-lg-1">
                                         <img src="images/cv-resume/image-1.jpg" alt=""/>
                                     </div>
@@ -102,9 +100,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </div>
             </div>
         </section> 
-        
-         
-
     </main>
       
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php"; ?>
