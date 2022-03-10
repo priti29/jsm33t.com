@@ -1,44 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <testimonials_db>
 
     <testimonials> 
-        <test>
+        <content>
             <PAGE>HOME PAGE / 0 </PAGE>
-            <title>'Nice hai 1'</title>
-            <author>Test User</author>
-        </test>
-         <test>
-            <title>new</title>
-            <author>Test 2</author>
-        </test>
+            <title>'Keep up the amazing work. Love how your productions have matured over the years.'</title>
+            <author>DJ NYK (Nikhil Sahni)</author>
+        </content>
+        <content>
+            <title>'Love these out of the box concepts. This guy surely deserves more exposure. Keep up the good work '</title>
+            <author>Anirban Paul (Mashup Artist)</author>
+        </content>
     </testimonials>
 
-    <testimonials> 
-        <test>
-        <PAGE>MUSIC melancholy / 1 </PAGE>
+    <testimonials>  
+        <content>
+            <PAGE>MUSIC melancholy / 1 </PAGE>
             <title>'Sounds great Jass, Very Cinematic'</title>
             <author>ANGUS POWELL (THE GUY BEHIND ONE OF THE ELEMENTARY'S OFFICIAL SOUNDTRACKS)</author>
-        </test>
-      
-        <test>
+        </content>
+
+        <content>
             <title>'Absolute Masterpiece'</title>
             <author>Aswin Sreekumar(EDM Artist)</author>
-        </test>
-        <test>
+        </content>
+        <content>
             <title>'Loved the new track. Your evolution in music production is eminent and attractive to follow'</title>
             <author>Haamiah(Orchestral Music Producer / Composer)</author>
-        </test>
-        <test>
+        </content>
+        <content>
             <title>'love this, I could listen all day'</title>
             <author>DAYNA D-FICK, MICHIGAN,US</author>
-        </test>
-        <test>
+        </content>
+        <content>
             <title>'AWESOMENESS. I felt as though I were right there in a moment in between time .I loved this and it reminds me of "The Fountain"'</title>
             <author>Webnet (English songwriter)</author>
-        </test>
+        </content>
     </testimonials>
 
+    <testimonials>  
+        <content>
+            <PAGE>MUSIC recuerdos_3 / 2 </PAGE>
+            <title>'Sounds great Jass, Very Cinematic'</title>
+            <author>ANGUS POWELL (THE GUY BEHIND ONE OF THE ELEMENTARY'S OFFICIAL SOUNDTRACKS)</author>
+        </content>
+        <content>
+            <title>'Absolute Masterpiece'</title>
+            <author>Aswin Sreekumar(EDM Artist)</author>
+        </content>
+    </testimonials>
 
 </testimonials_db>
 

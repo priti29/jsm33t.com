@@ -9,7 +9,7 @@ $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
-    <section class="page-section bg-dark-alfa-70 parallax-3" data-background="cover.jpg">
+    <section class="page-section bg-dark-alfa-30 parallax-3" data-background="/resources/svg/header_maroon.svg">
          <div class="relative container align-left">
                         
              <div class="row">
@@ -29,7 +29,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         </div>                 
          </div>
       </section>
-        <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/home.jpg" id="about">
+        <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/svg/header_maroon.svg" id="about">
             <div class="container relative">
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                     Recuerdos ep 3

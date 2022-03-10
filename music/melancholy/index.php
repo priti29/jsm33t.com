@@ -239,7 +239,7 @@ $json = json_decode($con, true);
 <?php
 foreach($json as $elem)  
 {
-    for ($x = 0; $x < count($elem[1]['test']); $x++) 
+    for ($x = 0; $x < count($elem[1]['content']); $x++) 
     {  
     ?>
         <div>
@@ -253,10 +253,10 @@ foreach($json as $elem)
                     <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
                     <blockquote class="testimonial white">
                         <p>
-                        <?php  echo $elem[1]['test'][$x]['title']; ?>
+                        <?php  echo $elem[1]['content'][$x]['title']; ?>
                         </p>
                         <footer class="testimonial-author">
-                        <?php  echo $elem[1]['test'][$x]['author']; ?>
+                        <?php  echo $elem[1]['content'][$x]['author']; ?>
                         </footer>
                     </blockquote>
                 </div>
