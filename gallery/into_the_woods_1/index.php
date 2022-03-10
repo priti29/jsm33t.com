@@ -2,8 +2,9 @@
 $title = "Into the woods | Gallery";
 $description = "Into the woods -  Pratidnya Mhatre";
 $logo = "white";
-$home = "active";
-$cur_stroke = "#fff";
+$gallery = ' href="/gallery" class="active" ';
+$cur_stroke = "#b4a084";
+$prog_color = "#b4a084";
 $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
@@ -59,7 +60,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 																$files[] = $file; 
 														}   
 												}
-												
+
 												natsort($files); // sort.
 												$nam=1;
 												foreach($files as $file) 
