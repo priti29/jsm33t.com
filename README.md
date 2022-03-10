@@ -45,9 +45,9 @@
     <br />
     <br />
     <a href="https://github.com/jsm33t/jsm33t.com">View Demo</a>
-    ·
+    .
     <a href="https://github.com/jsm33t/jsm33t.com/issues">Report Bug</a>
-    ·
+    .
     <a href="https://github.com/jsm33t/jsm33t.com/issues">Request a feature</a>
   </p>
 </div>

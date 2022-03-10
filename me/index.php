@@ -2,17 +2,16 @@
 $title = "About Me | jsm33t";
 $description = "Basic flex stuffs and all";
 $logo = "white";
-$home = ' href="/me" onClick="return false;" class="active" ';
-$cur_stroke = "#1d978d";
-$prog_color = "#1d978d";
+$me = ' href="/me" onClick="return false;" class="active" ';
+$cur_stroke = "#8badd9";
+$prog_color = "#8badd9";
 $logo_visibility = "d-none d-md-block d-lg-block";
-
 
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
         <!-- Home Section -->
-        <section class="page-section bg-dark bg-dark-alfa-70" data-background="images/cv-resume/section-bg-1.jpg" id="home">
+        <section class="page-section bg-dark parallax-2 bg-dark-alfa-50" data-background="/resources/svg/full_blue.svg" id="home">
                     <div class="relative container">
     
                         

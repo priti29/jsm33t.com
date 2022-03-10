@@ -97,7 +97,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                
                                 <div class="widget-posts-descr">
                                     <a href="/repository/urban_dictionary" title="">Urban Dictionary | API | BETA</a>
-                                    Posted by John Doe 7 Mar 
+                                    -jsm33t
                                 </div>
                             </div>
                             
@@ -120,55 +120,15 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         </div>
                         </div>
 
-
-                        <h3 class="blog-item-title font-alt mb-10"><a href="#">GIT / ID</a></h3>
-                        <hr class="mt-0 mb-30" />
-                        <div class="row mb-70">
-                        <div class="col-sm-6">
-                            <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-1.jpg" alt="" class="widget-posts-img" /></a>
-                                <div class="widget-posts-descr">
-                                    <a href="#" title="">Yotube Downloader | BETA | limit 200/day</a>
-                                    - jsm33t 
-                                </div>
-                            </div>
-                            <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-2.jpg" alt="" class="widget-posts-img" /></a>
-                                <div class="widget-posts-descr">
-                                    <a href="/apps/urban_dict" title="">Urban Dictionary | API | BETA</a>
-                                    Posted by John Doe 7 Mar 
-                                </div>
-                            </div>
-                            
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-3.jpg" alt="" class="widget-posts-img" /></a>
-                                <div class="widget-posts-descr">
-                                    <a href="#" title="">Google Dork Tool</a>
-                                    - jsm33t
-                                </div>
-                            </div>
-                            <div class="blog-post-prev-small clearfix">
-                                <a href=""><img src="images/blog/previews/post-prev-4.jpg" alt="" class="widget-posts-img" /></a>
-                                <div class="widget-posts-descr">
-                                    <a href="#" title="">Hipster’s Style in Web Design and Logo</a>
-                                    Posted by John Doe 7 Mar 
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-
-
                     </div>
                     <div class="col-md-4 sidebar">
                         <!-- Widget -->
                         <div class="widget">
                         <h5 class="widget-title font-alt">SOCIALS</h5>
                         <div class="widget-body">
-                            <a href="#" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-github"></i>&nbsp;Github</a>
-                            <a href="#" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-twitter"></i> Twitter</a>
-                            <a href="#" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-rss"></i> RSS</a>
+                            <a href="https://github.com/jsm33t" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-github"></i>&nbsp;Github</a>
+                            <a href="https://twitter.com/jsm33t" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-twitter"></i> Twitter</a>
+                            <a href="/me" class="btn btn-mod btn-small btn-round btn-gray mb-10"><i class="fa fa-info"></i> &nbsp;ABOUT ME</a>
                         </div>
                         </div>
                         <!-- End Widget -->

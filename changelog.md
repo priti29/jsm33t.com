@@ -10,6 +10,7 @@
 - Keywords (final)
 - Sitemap update
 - Submit for indexing
+- updated readme.md
 
 ### Removed
 

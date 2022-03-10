@@ -98,19 +98,13 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/images/home.jpg" id="about">
                     <div class="container relative">
                         
-                        <!-- Works Filter -->                    
-                        <div class="works-filter font-alt align-center" role="tablist">
-                            <a href="#" class="filter active" role="tab" aria-selected="true" data-filter="*">All</a>
-                            <a href="#urbex" class="filter" role="tab" aria-selected="false" data-filter=".music">Music</a>
-                            <a href="#mobile" class="filter" role="tab" aria-selected="false" data-filter=".mobile">Mobile</a>
-                        </div>                    
-                        <!-- End Works Filter -->
+                    
                         
                         <!-- Works Grid -->
                         <ul class="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white" id="work-grid">
                             
                             <!-- Work Item (Lightbox) -->
-                            <li class="work-item mix music">
+                            <li class="work-item mix wow fadeInLeft" data-wow-delay="0.3s">
                                 <a href="/music" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                         <img src="/resources/images/home_thumbs/music.jpg" alt="Work" />
@@ -126,7 +120,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                             <!-- End Work Item -->
 
                              <!-- Work Item (Lightbox) -->
-                             <li class="work-item mix ">
+                             <li class="work-item mix wow fadeInDown" data-wow-delay="0.1s">
                                 <a href="/repository" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                     <img src="/resources/images/home_thumbs/repository.jpg" alt="Work" />
@@ -140,7 +134,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 </a>
                             </li>
 
-                            <li class="work-item mix music">
+                            <li class="work-item mix music wow fadeInRight" data-wow-delay="0.3s">
                                 <a href="#" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                     <img src="/resources/images/home_thumbs/playlists.jpg" alt="Work" />
@@ -154,7 +148,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 </a>
                             </li>
 
-                              <li class="work-item mix mobile">
+                              <li class="work-item mix mobile wow fadeInLeft" data-wow-delay="0.2s">
                                 <a href="/retro" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                     <img src="/resources/images/home_thumbs/retro.jpg" alt="Work" />
@@ -168,13 +162,26 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 </a>
                             </li>
 
-                            <li class="work-item mix mobile">
+                            <li class="work-item mix mobile wow fadeInUp" data-wow-delay="0.2s">
                                 <a href="/gallery" class="work-ext-link">
                                     <div class="work-img rcorner10">
                                     <img src="/resources/images/home_thumbs/gallery.jpg" alt="Work" />
                                     </div>
                                     <div class="work-intro">
                                         <h3 class="work-title">Gallery</h3>
+                                        <div class="work-descr">
+                                            -Jsm33t
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="work-item mix mobile wow fadeInRight" data-wow-delay="0.2s">
+                                <a href="/blogs" onClick="return false;" class="work-ext-link">
+                                    <div class="work-img rcorner10">
+                                    <img src="/resources/images/home_thumbs/gallery.jpg" alt="Work" />
+                                    </div>
+                                    <div class="work-intro">
+                                        <h3 class="work-title">Blog</h3>
                                         <div class="work-descr">
                                             -Jsm33t
                                         </div>

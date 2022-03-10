@@ -240,9 +240,8 @@ $json = json_decode($con, true);
 foreach($json as $elem)  
 {
     for ($x = 0; $x < count($elem[1]['test']); $x++) 
-    {
-        
-        ?>
+    {  
+    ?>
         <div>
         <div class="container relative">
             <div class="row">
