@@ -59,19 +59,17 @@ function myFunction() {
 </script>
 		<script type="text/javascript" src="/resources/js/maincur.js"></script>    
         <script type="text/javascript" src="/resources/js/jquery-3.5.1.min.js"></script>   
-        
         <script type="text/javascript" src="/resources/js/jquery.easing.1.3.js"></script>
-        <script type="text/javascript" src="/resources/js/bootstrap.bundle.min.js"></script>        
-        <script type="text/javascript" src="/resources/js/SmoothScroll.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.scrollTo.min.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.localScroll.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/js/bootstrap.bundle.min.js" integrity="sha512-mULnawDVcCnsk9a4aG1QLZZ6rcce/jSzEGqUkeOLy0b6q0+T6syHrxlsAGH7ZVoqC93Pd0lBqd6WguPWih7VHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js" integrity="sha512-HaoDYc3PGduguBWOSToNc0AWGHBi2Y432Ssp3wNIdlOzrunCtB2qq6FrhtPbo+PlbvRbyi86dr5VQx61eg/daQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js" integrity="sha512-PsJ1f4lw0Jrga4wbDOvdWs9DFl88C1vlcH2VQYqgljHBmzmqtGivUkzRHWx2ZxFlnysKUcROqLeuOpYh9q4YNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/2.0.0/jquery.localScroll.min.js" integrity="sha512-x/Viuh5YndnrDISWqrZ6rerGnHccdLv/TW2B+xEGqubrLGCT6LdBGhnQxXo1Q4sXFgO12YeRWDYJkIV41OtOTA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script type="text/javascript" src="/resources/js/jquery.viewport.mini.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.countTo.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.appear.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.sticky.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.parallax-1.1.3.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.fitvids.js"></script>
-        <script type="text/javascript" src="/resources/js/owl.carousel.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" integrity="sha512-9CWGXFSJ+/X0LWzSRCZFsOPhSfm6jbnL+Mpqo0o8Ke2SYr8rCTqb4/wGm+9n13HtDE1NQpAEOrMecDZw4FXQGg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script type="text/javascript" src="/resources/js/isotope.pkgd.min.js"></script>
         <script type="text/javascript" src="/resources/js/imagesloaded.pkgd.min.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.magnific-popup.min.js"></script>
@@ -80,7 +78,7 @@ function myFunction() {
         <script type="text/javascript" src="/resources/js/morphext.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.lazyload.min.js"></script>
         <script type="text/javascript" src="/resources/js/all.js"></script>
-        <script type="text/javascript" src="/resources/js/contact-form.js"></script>
+        
         <script>var loc=window.location.href+"";0==loc.indexOf("http://")&&(window.location.href=loc.replace("http://","https://"))</script>
         <!-- <script type="text/javascript" src="/resources/js/jquery.ajaxchimp.min.js"></script>        -->
         <!--[if lt IE 10]><script type="text/javascript" src="/resources/js/placeholder.js"></script><![endif]-->

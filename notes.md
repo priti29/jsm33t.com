@@ -50,9 +50,40 @@ if(!isset($home)) { $home = '';}
 
 
 
+CDN
 
+<script type="text/javascript" src="/resources/js/maincur.js"></script>    
+        <script type="text/javascript" src="/resources/js/jquery-3.5.1.min.js"></script>   
+        <script type="text/javascript" src="/resources/js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="/resources/js/bootstrap.bundle.min.js"></script>        
+        <script type="text/javascript" src="/resources/js/SmoothScroll.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.scrollTo.min.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.localScroll.min.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.viewport.mini.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.countTo.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.appear.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.sticky.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.parallax-1.1.3.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.fitvids.js"></script>
+        <script type="text/javascript" src="/resources/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="/resources/js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="/resources/js/imagesloaded.pkgd.min.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="/resources/js/wow.min.js"></script>
+        <script type="text/javascript" src="/resources/js/masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="/resources/js/morphext.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.lazyload.min.js"></script>
+        <script type="text/javascript" src="/resources/js/all.js"></script>
+        <script type="text/javascript" src="/resources/js/contact-form.js"></script>
 
-
+<link rel="stylesheet" href="/resources/css/maincur.css">
+        <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/resources/css/style.css">
+        <link rel="stylesheet" href="/resources/css/style-responsive.css">
+        <link rel="stylesheet" href="/resources/css/animate.min.css">
+        <link rel="stylesheet" href="/resources/css/vertical-rhythm.min.css">
+        <link rel="stylesheet" href="/resources/css/owl.carousel.css">
+        <link rel="stylesheet" href="/resources/css/magnific-popup.css">
 
 
 
