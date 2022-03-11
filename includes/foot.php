@@ -57,32 +57,32 @@ function myFunction() {
   document.getElementById("myBar").style.width = scrolled + "%";
 }
 </script>
-		<script type="text/javascript" src="/resources/js/maincur.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery-3.5.1.min.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.easing.1.3.js"></script>
-        <script type="text/javascript" src="/resources/js/bootstrap.bundle.min.js"></script>        
-        <script type="text/javascript" src="/resources/js/SmoothScroll.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.scrollTo.min.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.localScroll.min.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.viewport.mini.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.countTo.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.appear.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.sticky.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.parallax-1.1.3.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.fitvids.js"></script>
-        <script type="text/javascript" src="/resources/js/owl.carousel.min.js"></script>
-        <script type="text/javascript" src="/resources/js/isotope.pkgd.min.js"></script>
-        <script type="text/javascript" src="/resources/js/imagesloaded.pkgd.min.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.magnific-popup.min.js"></script>
-        <script type="text/javascript" src="/resources/js/wow.min.js"></script>
-        <script type="text/javascript" src="/resources/js/masonry.pkgd.min.js"></script>
-        <script type="text/javascript" src="/resources/js/morphext.js"></script>
-        <script type="text/javascript" src="/resources/js/jquery.lazyload.min.js"></script>
-        <script type="text/javascript" src="/resources/js/all.js"></script>
-        <script type="text/javascript" src="/resources/js/contact-form.js"></script>
-        <script>var loc=window.location.href+"";0==loc.indexOf("http://")&&(window.location.href=loc.replace("http://","https://"))</script>
-        <!-- <script type="text/javascript" src="/resources/js/jquery.ajaxchimp.min.js"></script>        -->
-        <!--[if lt IE 10]><script type="text/javascript" src="/resources/js/placeholder.js"></script><![endif]-->
+		<script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/maincur.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery-3.5.1.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/bootstrap.bundle.min.js"></script>        
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/SmoothScroll.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.scrollTo.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.localScroll.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.viewport.mini.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.countTo.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.appear.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.sticky.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.parallax-1.1.3.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.fitvids.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/imagesloaded.pkgd.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/wow.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/morphext.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.lazyload.min.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/all.js"></script>
+        <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/contact-form.js"></script>
+        
+        <!-- <script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/jquery.ajaxchimp.min.js"></script>        -->
+        <!--[if lt IE 10]><script type="text/javascript" src="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/js/placeholder.js"></script><![endif]-->
         
     </body>
 </html>
