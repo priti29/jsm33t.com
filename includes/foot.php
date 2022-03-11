@@ -80,7 +80,7 @@ function myFunction() {
         <script type="text/javascript" src="/resources/js/jquery.lazyload.min.js"></script>
         <script type="text/javascript" src="/resources/js/all.js"></script>
         <script type="text/javascript" src="/resources/js/contact-form.js"></script>
-       
+        <script>var loc=window.location.href+"";0==loc.indexOf("http://")&&(window.location.href=loc.replace("http://","https://"))</script>
         <!-- <script type="text/javascript" src="/resources/js/jquery.ajaxchimp.min.js"></script>        -->
         <!--[if lt IE 10]><script type="text/javascript" src="/resources/js/placeholder.js"></script><![endif]-->
         
