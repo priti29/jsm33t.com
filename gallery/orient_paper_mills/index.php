@@ -100,6 +100,6 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                 </main>    
 <?php
 
-include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot_dark.php";
+include $_SERVER['DOCUMENT_ROOT'] . "/includes/foot.php";
  
 ?>
