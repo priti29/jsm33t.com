@@ -15,8 +15,8 @@
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
 
 		<link rel="stylesheet" href="/resources/css/maincur.css">
-        <link rel="stylesheet" href="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://raw.githubusercontent.com/JSM33T/jsm33t.com/master/resources/css/style.css">
+        <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/resources/css/style.css">
         <link rel="stylesheet" href="/resources/css/style-responsive.css">
         <link rel="stylesheet" href="/resources/css/animate.min.css">
         <link rel="stylesheet" href="/resources/css/vertical-rhythm.min.css">
