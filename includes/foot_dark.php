@@ -6,11 +6,11 @@
                         <a href="#top"><img src="/resources/images/j_logo_white.svg" width="78" height="36" alt="Company logo" /><span class="sr-only">Scroll to the top of the page</span></a>
                     </div>
                  
-                    <div class="footer-social-links mb-110 mb-xs-60">
-                     <a href="https://instagram.com/jsm33t" title="Instagram" target="_blank"><i class="fa fa-instagram bg-dark"></i></a>
-                     <a href="https://youtube.com/jsm33tmusic" title="Youtube" target="_blank"><i class="fa fa-youtube bg-dark"></i></a>
-                     <a href="https://soundcloud.com/jsm33t" title="SoundCloud" target="_blank"><i class="fa fa-soundcloud bg-dark"></i></a>
-                     <a href="https://open.spotify.com/artist/1y5ovVm8Z5QNKv3NSeQla5" title="Spotify" target="_blank"><i class="fa fa-spotify bg-dark"></i></a> 
+                    <div class="footer-social-links-black mb-110 mb-xs-60">
+                     <a href="https://instagram.com/jsm33t" title="Instagram" target="_blank"><i class="fa fa-instagram" style="color:grey"></i></a>
+                     <a href="https://youtube.com/jsm33tmusic" title="Youtube" target="_blank"><i class="fa fa-youtube" style="color:grey"></i></a>
+                     <a href="https://soundcloud.com/jsm33t" title="SoundCloud" target="_blank"><i class="fa fa-soundcloud" style="color:grey"></i></a>
+                     <a href="https://open.spotify.com/artist/1y5ovVm8Z5QNKv3NSeQla5" title="Spotify" target="_blank"><i class="fa fa-spotify" style="color:grey"></i></a> 
                     </div>
                     <div class="footer-text">
                         <div class="footer-copy font-alt">
@@ -23,7 +23,7 @@
                 </div>
                 <!-- Top Link -->
                 <div class="local-scroll">
-                     <a href="#top" class="link-to-top"><i class="fa fa-caret-up"></i></a>
+                     <a href="#top" class="link-to-top-white"><i class="fa fa-caret-up"></i></a>
                 </div>
                 <!-- End Top Link -->
                  
