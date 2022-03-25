@@ -112,7 +112,7 @@
             </li>
             <!-- End Work Item -->
             <!-- Work Item (Lightbox) -->
-            <li class="work-item mix wow fadeInDown" data-wow-delay="0.1s">
+            <li class="work-item mix wow fadeInLeft" data-wow-delay="0.2s">
                <a href="/repository" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img src="/resources/images/home_thumbs/repository.jpg" alt="Work" />
@@ -125,7 +125,7 @@
                   </div>
                </a>
             </li>
-            <li class="work-item mix music wow fadeInRight" data-wow-delay="0.3s">
+            <li class="work-item mix music wow fadeInLeft" data-wow-delay="0.1s">
                <a href="#" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img src="/resources/images/home_thumbs/playlists.jpg" alt="Work" />
@@ -138,7 +138,7 @@
                   </div>
                </a>
             </li>
-            <li class="work-item mix mobile wow fadeInLeft" data-wow-delay="0.2s">
+            <li class="work-item mix mobile wow fadeInRight" data-wow-delay="0.1s">
                <a href="/retro" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img src="/resources/images/home_thumbs/retro.jpg" alt="Work" />
@@ -151,7 +151,7 @@
                   </div>
                </a>
             </li>
-            <li class="work-item mix mobile wow fadeInUp" data-wow-delay="0.2s">
+            <li class="work-item mix mobile wow fadeInRight" data-wow-delay="0.2s">
                <a href="/gallery" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img src="/resources/images/home_thumbs/gallery.jpg" alt="Work" />
@@ -164,7 +164,7 @@
                   </div>
                </a>
             </li>
-            <li class="work-item mix mobile wow fadeInRight" data-wow-delay="0.2s">
+            <li class="work-item mix mobile wow fadeInRight" data-wow-delay="0.3s">
                <a href="/blogs" onClick="return false;" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img src="/resources/images/home_thumbs/gallery.jpg" alt="Work" />
