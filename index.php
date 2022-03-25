@@ -189,7 +189,7 @@
    $json = json_decode($con, true);  
 ?>            
                 
-   <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="/resources/images/home.jpg">       
+   <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="/resources/images/home.jpgt">       
 
       <?php
       foreach($json as $elem)  
