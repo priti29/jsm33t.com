@@ -19,23 +19,20 @@
 
     <link rel="stylesheet" type="text/css" href="assets/win95.css">
 
-<style>
-   @keyframes move {
-        from {
-            transform: translate(0%);
-        }
-        50% {
-            transform: translate(-40%);
-        }
-        to {
-            transform: transform(0%);
-        }
-        }
-
-
-</style>
-
-
+    <style>
+      @keyframes move {
+            from {
+                transform: translate(0%);
+            }
+            50% {
+                transform: translate(-40%);
+            }
+            to {
+                transform: transform(0%);
+            }
+            }
+    </style>
+</head>
 <body class=" windows-scrollbar" id="crt_main">
 
 

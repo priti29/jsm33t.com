@@ -51,7 +51,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 ' Exploring Music beyond the genres '
                                 </p>
                                 <footer>
-                                    Lorem Ipsum
+                                    Lorem Ipsum Falana Dhimkana
                                 </footer>
                             </blockquote>
                         </div>
@@ -60,6 +60,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
                             His recent original "Melancholy" released worldwide and gained support from some great names from the industry including Angus Powel.
+                            The guy behind one of the official soundtracks from the netflix series "Elementary"
                         </div>
                     </div>
                 </div>
