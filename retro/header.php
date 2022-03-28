@@ -58,6 +58,9 @@
       <li class="nav-item">
         <a class="nav-link" href="games">games</a>
       </li>
+      <li class="nav-item">
+        <a href="/"> Exit</a>
+      </li>
      
      
     

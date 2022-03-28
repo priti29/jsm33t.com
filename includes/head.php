@@ -227,10 +227,11 @@ if(!isset($me)){ $me = 'href ="/me"' ;}
                             <li>
                                 <a <?php echo $repo?> >REPO</a>
                             </li>
-                            <li>
-                                <a <?php echo $me?> ><del>ABOUT ME</del></a>
-                            </li>
              -->
+                            <li>
+                                <a <?php echo $me?> >ABOUT ME</a>
+                            </li>
+            
                             <li>
                                 <a href="/retro" >R3TR0</a>
                             </li>
