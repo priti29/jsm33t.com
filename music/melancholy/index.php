@@ -202,7 +202,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                             320 kbps mp3 file
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="https://localhost/music/melancholy/JSM33T%20-%20Melancholy.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
 
                                                 <tr>
@@ -212,7 +212,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                                            Lossless wav
                                                         </div>
                                                     </td>
-                                                    <td class="align-right"><a href="https://localhost/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
                                                 </tr>
 
                                             </tbody>

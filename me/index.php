@@ -9,7 +9,6 @@ $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
-        <!-- Home Section -->
         <section class="home-section bg-dark-alfa-30 parallax-2" data-background="cover.jpg" id="home">
         <div class="js-height-full container">
             <div class="home-content">
