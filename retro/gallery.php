@@ -45,35 +45,7 @@
 				
 
             </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-				
-				
-
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-				
-				
-
-            </div>
-            <div class="card-body">
-                
-                <a class="btn btn-primary " href="video-background.html">
-                    <img src="assets/icons/video_-0.png" class="icon-16">text random
-                </a>
-                
-
-
-            </div>
+          
         </div>
     </div>
 
