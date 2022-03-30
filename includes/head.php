@@ -8,21 +8,17 @@
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
         <?php if(!isset($meta_tags)){ $meta_tags = 'jsm33t ,Music, blogs, coder , bootlegs';} ?>
         <meta name="keywords" content="<?php echo $meta_tags?>">
-
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
         <?php if(!isset($fav_icon)){ $fav_icon = '/resources/images/fav_icon.png';} ?>
         <link rel="shortcut icon" href="<?php echo $fav_icon ?>">
-
 		<link rel="stylesheet" href="/resources/css/maincur.css">
         <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
         <link rel="stylesheet" href="/resources/css/style.css">
-        <link rel="stylesheet" href="/resources/css/style-responsive.css">
+        <link rel="stylesheet" href="/resources/css/style-responsive.tecss">
         <link rel="stylesheet" href="/resources/css/animate.min.css">
         <link rel="stylesheet" href="/resources/css/vertical-rhythm.min.css">
         <link rel="stylesheet" href="/resources/css/owl.carousel.css">
         <link rel="stylesheet" href="/resources/css/magnific-popup.css">
-
         <style>
             body {
                 margin: 0;

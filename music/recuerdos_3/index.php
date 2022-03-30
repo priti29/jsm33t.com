@@ -27,34 +27,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
             </div>
         </div>
     </section>
-    <section class="page-section bg-light-alfa-90 parallax-9" data-background="/resources/svg/header_maroon.svg" id="about">
-        <div class="container relative">
-            <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-                Recuerdos ep 3
-            </h2>
-            <div class="section-text mb-50 mb-sm-20">
-                <div class="row">
-                    <div class="col-md-4">
-                        <blockquote>
-                            <p>
-                                "I tell my piano the things I used to tell you"
-                            </p>
-                            <footer>
-                                Fredric Chopin
-                            </footer>
-                        </blockquote>
-                    </div>
-                    <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        Melancholy is a snapshot of the trajectory of an offbeat mind. The graticule of a depressed mind remains a mystery.
-                    </div>
-                    <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                        Jsm33t's recent work Melancholy gained an (enter text) support
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- About Section -->
+   
     <section class="page-section" id="download">
         <div class="container relative">
             <!-- Row -->
