@@ -96,9 +96,7 @@ function crt()
 <script src="pacman_files/modernizr-1.5.min.js"></script>
 
 <script>
-
   var el = document.getElementById("pacman");
-
   if (Modernizr.canvas && Modernizr.localstorage && 
       Modernizr.audio && (Modernizr.audio.ogg || Modernizr.audio.mp3)) {
     window.setTimeout(function () { PACMAN.init(el, "./"); }, 0);
@@ -107,13 +105,9 @@ function crt()
       "(firefox 3.6+, Chrome 4+, Opera 10+ and Safari 4+)</small>";
   }
 </script>
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
 <script type="text/javascript" src="redirect-ajax.js"></script>
-
 </body>
 </html>     
 <?php

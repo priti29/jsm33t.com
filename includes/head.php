@@ -203,11 +203,11 @@ a.link-to-top-white:hover{
 
 <?php 
 
-if(!isset($home)) { $home = 'href="/" ';}
-if(!isset($music)){ $music = 'href ="/music"' ;}
-if(!isset($gallery)){ $gallery = 'href="/gallery"';}
-if(!isset($repo)){ $repo = 'href="/repository"';}
-if(!isset($me)){ $me = 'href ="/me"' ;}
+    if(!isset($home)) { $home = 'href="/" ';}
+    if(!isset($music)){ $music = 'href ="/music"' ;}
+    if(!isset($gallery)){ $gallery = 'href="/gallery"';}
+    if(!isset($repo)){ $repo = 'href="/repository"';}
+    if(!isset($me)){ $me = 'href ="/me"' ;}
 
 ?>
 
@@ -215,7 +215,7 @@ if(!isset($me)){ $me = 'href ="/me"' ;}
                             <li>
                                 <a <?php echo $home?> >Home</a>
                             </li>
-                             <li>
+                            <li>
                                 <a <?php echo $music?> >Music</a>
                             </li>
                    

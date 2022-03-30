@@ -29,16 +29,16 @@
                  
             </footer>
             
-    <svg class="cursor" width="150" height="150" viewBox="0 0 220 220">
-        <defs>
-            <filter id="filter-1" x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox">
-                <feTurbulence type="fractalNoise" baseFrequency="0" numOctaves="1" result="warp"></feTurbulence>
-                <feOffset dx="-30" result="warpOffset"></feOffset>
-                <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warpOffset"></feDisplacementMap>
-            </filter>
-        </defs>
-        <circle class="cursor__inner" cx="110" cy="110" r="60"></circle>
-    </svg>
+            <svg class="cursor" width="150" height="150" viewBox="0 0 220 220">
+                <defs>
+                    <filter id="filter-1" x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox">
+                        <feTurbulence type="fractalNoise" baseFrequency="0" numOctaves="1" result="warp"></feTurbulence>
+                        <feOffset dx="-30" result="warpOffset"></feOffset>
+                        <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warpOffset"></feDisplacementMap>
+                    </filter>
+                </defs>
+                <circle class="cursor__inner" cx="110" cy="110" r="60"></circle>
+            </svg>
     
             <!--
             t <a href="http://themeforest.net/item/rhythm-multipurpose-onemulti-page-template/10140354?ref=Bestlooker" target="_blank" class="buy-button"><i class="fa fa-search" aria-hidden="true"></i> <span>Buy</span></a>
@@ -47,16 +47,16 @@
         
         </div>
         <script>
-// When the user scrolls the page, execute myFunction 
-window.onscroll = function() {myFunction()};
+            // When the user scrolls the page, execute myFunction 
+            window.onscroll = function() {myFunction()};
 
-function myFunction() {
-  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-  var scrolled = (winScroll / height) * 100;
-  document.getElementById("myBar").style.width = scrolled + "%";
-}
-</script>
+            function myFunction() {
+            var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            var scrolled = (winScroll / height) * 100;
+            document.getElementById("myBar").style.width = scrolled + "%";
+        }
+        </script>
 		<script type="text/javascript" src="/resources/js/maincur.js"></script>
         <script type="text/javascript" src="/resources/js/jquery-3.5.1.min.js"></script>
         <script type="text/javascript" src="/resources/js/jquery.easing.1.3.js"></script>
