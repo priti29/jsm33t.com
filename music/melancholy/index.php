@@ -71,34 +71,20 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 
                   <!-- About Section -->
                   <section class="page-section" id="download">
-              
-            
                     <div class="container relative">                    
-                         
-                           
-                        <!-- Row -->
                         <div class="row">
-                            <!-- Col -->
                             <div class="col-lg-8 offset-lg-2">
-                                
                                 <!-- Nav Tabs -->
                                 <div class="align-center mb-40 mb-xs-30">
                                     <ul role="tablist" class="nav nav-tabs tpl-minimal-tabs animate">
                                         <li>
                                             <a href="#stream" aria-controls="stream" class="nav-link active" data-bs-toggle="tab" role="tab" aria-selected="false">DOWNLOAD/STREAM</a>
                                         </li>
-                                       
-                                       
                                     </ul>
                                 </div>
-                                <!-- End Nav Tabs -->
-                                
-                                <!-- Tab panes -->
                                 <div class="tab-content section-text">
                                     <div role="tabpanel" class="tab-pane fade show active" id="stream">
-                                        
                                         <table class="table table-hover">
-                                            
                                             <thead>
                                                 <tr>
                                                     <th>
@@ -227,12 +213,12 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     </div>
                 </section>
                 <!-- End Menu Section -->
-                <?php
-$path = $_SERVER['DOCUMENT_ROOT'] . "/database/testimonials.xml";
-$xmlfile = file_get_contents($path);
-$new = simplexml_load_string($xmlfile);
-$con = json_encode($new);
-$json = json_decode($con, true);  
+<?php
+    $path = $_SERVER['DOCUMENT_ROOT'] . "/database/testimonials.xml";
+    $xmlfile = file_get_contents($path);
+    $new = simplexml_load_string($xmlfile);
+    $con = json_encode($new);
+    $json = json_decode($con, true);  
 ?>            
                 
 <section class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider" data-background="cover.jpg">       
