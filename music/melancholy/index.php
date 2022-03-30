@@ -65,154 +65,133 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     </div>
                 </div>
             </div>
-        </section> 
-        
-        
-
-                  <!-- About Section -->
-                  <section class="page-section" id="download">
-                    <div class="container relative">                    
-                        <div class="row">
-                            <div class="col-lg-8 offset-lg-2">
-                                <!-- Nav Tabs -->
-                                <div class="align-center mb-40 mb-xs-30">
-                                    <ul role="tablist" class="nav nav-tabs tpl-minimal-tabs animate">
-                                        <li>
-                                            <a href="#stream" aria-controls="stream" class="nav-link active" data-bs-toggle="tab" role="tab" aria-selected="false">DOWNLOAD/STREAM</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="tab-content section-text">
-                                    <div role="tabpanel" class="tab-pane fade show active" id="stream">
-                                        <table class="table table-hover">
-                                            <thead>
-                                                <tr>
-                                                    <th>
-                                                        STREAM
-                                                    </th>
-                                                    <th style="width:20%;">
-                                                    </th>
-                                                </tr>
-                                            </thead>
-                                            
-                                            <tbody>
-                                       
-                                                <tr>
-                                                    <td>
-                                                        Youtube
-                                                        <div class="small">
-                                                          Stream
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
-                                                </tr>
-                                                
-                                                <tr>
-                                                    <td>
-                                                        Spotify
-                                                        <div class="small">
-                                                            You know it
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
-                                                </tr>
-                                                
-                                                <tr>
-                                                    <td>
-                                                        Soundcloud
-                                                        <div class="small">
-                                                        Umm You should know it
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://soundcloud.com/jsm33t/melancholy"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-soundcloud">&nbsp;</i>STREAM</a></td>
-                                                </tr>
-                                                
-                                                <tr>
-                                                    <td>
-                                                        Jiosaavn
-                                                        <div class="small">
-                                                          You know it
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://www.jiosaavn.com/album/melancholy/y7CAslNFyoM_"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Amazon
-                                                        <div class="small">
-                                                          Purchase
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://www.amazon.com/Melancholy-Jsm33t/dp/B08F74JGRW"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
-                                                </tr>
-                                                <tr>
-                                                    <td>
-                                                        Resso
-                                                        <div class="small">
-                                                          A new gen music service
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://www.resso.com/track?id=6856956516407302145"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
-                                                </tr>
-                                               
-                                                <tr>
-                                                    <td>
-                                                        Anghami
-                                                        <div class="small">
-                                                          Music service for Middle East
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
-                                                </tr>
-
-                                            </tbody>
-                                        </table>
-                                        
-                                        <table class="table table-hover">
-                                            
-                                            <thead>
-                                                <tr>
-                                                    <th>
-                                                        DOWNLOAD
-                                                    </th>
-                                                    <th style="width:20%;">
-                                                    </th>
-                                                </tr>
-                                            </thead>
-                                            
-                                            <tbody>
-                                                
-                                                <tr>
-                                                    <td>
-                                                        MP3
-                                                        <div class="small">
-                                                            320 kbps mp3 file
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
-                                                </tr>
-
-                                                <tr>
-                                                    <td>
-                                                        WAV
-                                                        <div class="small">
-                                                           Lossless wav
-                                                        </div>
-                                                    </td>
-                                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
-                                                </tr>
-
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Col -->
+        </section>
+        <section class="page-section" id="download">
+            <div class="container relative">
+                <div class="row">
+                    <div class="col-lg-8 offset-lg-2">
+                        <div class="align-center mb-40 mb-xs-30">
+                        <ul role="tablist" class="nav nav-tabs tpl-minimal-tabs animate">
+                            <li>
+                                <a href="#stream" aria-controls="stream" class="nav-link active" data-bs-toggle="tab" role="tab" aria-selected="false">DOWNLOAD/STREAM</a>
+                            </li>
+                        </ul>
                         </div>
-                        <!-- End Row -->
+                        <div class="tab-content section-text">
+                        <div role="tabpanel" class="tab-pane fade show active" id="stream">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                    <th>
+                                        STREAM
+                                    </th>
+                                    <th style="width:20%;">
+                                    </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                    <td>
+                                        Youtube
+                                        <div class="small">
+                                            Stream
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://youtu.be/mTWvfrzzgTI"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-youtube">&nbsp;</i>STREAM</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Spotify
+                                        <div class="small">
+                                            You know it
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://open.spotify.com/album/6ezKwIF8Xeu68Tv16nj0wJ"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" ><i class="fa fa-spotify"> &nbsp;</i>STREAM</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Soundcloud
+                                        <div class="small">
+                                            Umm You should know it
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://soundcloud.com/jsm33t/melancholy"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-soundcloud">&nbsp;</i>STREAM</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Jiosaavn
+                                        <div class="small">
+                                            You know it
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://www.jiosaavn.com/album/melancholy/y7CAslNFyoM_"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Amazon
+                                        <div class="small">
+                                            Purchase
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://www.amazon.com/Melancholy-Jsm33t/dp/B08F74JGRW"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Resso
+                                        <div class="small">
+                                            A new gen music service
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://www.resso.com/track?id=6856956516407302145"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>BUY</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        Anghami
+                                        <div class="small">
+                                            Music service for Middle East
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="https://play.anghami.com/album/1014016822"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank"><i class="fa fa-music">&nbsp;</i>STREAM</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                    <th>
+                                        DOWNLOAD
+                                    </th>
+                                    <th style="width:20%;">
+                                    </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                    <td>
+                                        MP3
+                                        <div class="small">
+                                            320 kbps mp3 file
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.mp3" class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                    </tr>
+                                    <tr>
+                                    <td>
+                                        WAV
+                                        <div class="small">
+                                            Lossless wav
+                                        </div>
+                                    </td>
+                                    <td class="align-right"><a href="/music/melancholy/JSM33T%20-%20Melancholy.wav"class="btn btn-mod btn-circle btn-dark btn-small"target="_blank" download><i class="fa fa-music">&nbsp;</i>DOWNLOAD</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        </div>
                     </div>
-                </section>
-                <!-- End Menu Section -->
+                </div>
+            </div>
+        </section>
 <?php
     $path = $_SERVER['DOCUMENT_ROOT'] . "/database/testimonials.xml";
     $xmlfile = file_get_contents($path);
@@ -233,11 +212,11 @@ foreach($json as $elem)
         <div class="container relative">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 align-center">
-                    <!-- Section Icon -->
+                   
                     <div class="section-icon">
                         <span class="icon-quote"></span>
                     </div>
-                    <!-- Section Title --><h3 class="small-title font-alt">What people say?</h3>
+                  <h3 class="small-title font-alt">What people say?</h3>
                     <blockquote class="testimonial white">
                         <p>
                         <?php  echo $elem[1]['content'][$x]['title']; ?>
@@ -260,7 +239,7 @@ foreach($json as $elem)
                     
   
                 </section>
-                <!-- End Testimonials Section -->
+            
                 
     </main>
       
