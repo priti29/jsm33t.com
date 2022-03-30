@@ -37,7 +37,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
         </div>
         </section>
                 <!-- End Home Section -->
-        <section class="page-section bg-dark-alfa-90 parallax-9" data-background="/cover.jpg" id="about">
+        <section class="page-section bg-dark-alfa-90 parallax-9" id="about">
             <div class="container relative">
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                     About Me
