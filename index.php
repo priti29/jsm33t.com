@@ -21,7 +21,7 @@
                </div>
                <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
                   <span class="text-rotate">
-                  Soundtracks,
+                  Music,
                   Codes,
                   Archives,
                   People

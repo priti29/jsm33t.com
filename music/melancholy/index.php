@@ -9,6 +9,7 @@ $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
     <main id="main">
+   
         <section class="home-section bg-dark-alfa-70 parallax-2" data-background="cover.jpg" id="home">
             <div class="js-height-full container">
                 <div class="home-content">
@@ -18,7 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 <center> <span class="d-lg-none d-md-none d-lg-inline-block">&nbsp;</span><span><a href="/">HOME</a></span>/<span><a href="/music">MUSIC</a></span>/<span>GALLERY</span></center>
                             </h3>
                         </div>
-                        <h2 class="hs-line-14 ind_14 font-alt mb-50 mb-xs-0">
+                        <h2 class="hs-line-12 ind_14 font-alt mb-50 mb-xs-0">
                             <span class="text-rotate">
                                Melancholy,
                             The darknesss within
