@@ -11,8 +11,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -111,18 +109,9 @@ Structuring / Templating
 Widgets
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
-
-
-
 See the [open issues](https://github.com/jsm33t/jsm33t.com/issues) for a full list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing

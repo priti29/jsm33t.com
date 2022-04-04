@@ -208,30 +208,11 @@ a.link-to-top-white:hover{
 ?>
 
                         <ul class="fm-menu-links local-scroll">
-                            <li>
-                                <a <?php echo $home?> >Home</a>
-                            </li>
-                            <li>
-                                <a <?php echo $music?> >Music</a>
-                            </li>
-                   
-                            <li>
-                                <a <?php echo $gallery?> >GALLERY</a>
-                            </li>
-                     
-             <!--      
-                            <li>
-                                <a <?php echo $repo?> >REPO</a>
-                            </li>
-             -->
-                            <li>
-                                <a <?php echo $me?> >ABOUT ME</a>
-                            </li>
-            
-                            <li>
-                                <a href="/retro" >R3TR0</a>
-                            </li>
-                           
+                            <li>  <a <?php echo $home?> >Home</a>       </li>
+                            <li>  <a <?php echo $music?> >Music</a>     </li>
+                            <li>  <a <?php echo $gallery?> >GALLERY</a> </li>
+                            <li>  <a <?php echo $me?> >ABOUT ME</a>     </li>
+                            <li>  <a href="/retro" >R3TR0</a>           </li>
                             <li>
                                 <a href="#" class="fm-has-sub">Search <i class="fa fa-search"></i></a>
                                 <ul class="fm-sub">
@@ -239,9 +220,10 @@ a.link-to-top-white:hover{
                                         <div class="mn-wrap">
                                             <form method="post" class="form align-center">
                                                 <div class="search-wrap inline-block fm-search">             
-                                                    <input type="text" class="form-control search-field round" size="30" 
-                                                            onkeyup="showResult(this.value)"
-                                                            placeholder="Search..."
+                                                    <input type="text" class="form-control search-field round"
+                                                        size="30" 
+                                                        onkeyup="showResult(this.value)"
+                                                        placeholder="Search..."
                                                     >
                                                     <div id="livesearch"></div>
                                                 </div>
@@ -250,8 +232,6 @@ a.link-to-top-white:hover{
                                     </li>
                                 </ul>
                             </li>
-                            <!-- End Item With Sub -->
-                            
                         </ul>
                         
                         <!--My Social Handles -->
