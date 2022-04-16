@@ -95,9 +95,10 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                   </div>
                </a>
             </li>
+         
             <!-- End Work Item -->
             <!-- Work Item (External Page) -->
-            <li class="work-item mix mobile">
+            <li class="work-item mix urbex">
                <a href="/gallery/orient_colony/" class="work-ext-link">
                   <div class="work-img rcorner10">
                      <img class="work-img" src="orient_colony/cover.jpg" alt="Work" />
@@ -120,6 +121,19 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                      <h3 class="work-title">Into The Woods Ep.1</h3>
                      <div class="work-descr">
                         -Pratidnya Mhatre
+                     </div>
+                  </div>
+               </a>
+            </li>
+            <li class="work-item mix mobile">
+               <a href="/gallery/garden_state/" class="work-ext-link">
+                  <div class="work-img rcorner10">
+                     <img class="work-img" src="garden_state/cover.jpg" alt="Work" />
+                  </div>
+                  <div class="work-intro">
+                     <h3 class="work-title">Retro Tech</h3>
+                     <div class="work-descr">
+                        -Jsm33t
                      </div>
                   </div>
                </a>

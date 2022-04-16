@@ -14,6 +14,7 @@
 		<link rel="stylesheet" href="/resources/css/maincur.css">
         <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
         <link rel="stylesheet" href="/resources/css/style.css">
+        <link rel="stylesheet" href="/resources/css/jsm33t.css">
         <link rel="stylesheet" href="/resources/css/style-responsive.css">
         <link rel="stylesheet" href="/resources/css/animate.min.css">
         <link rel="stylesheet" href="/resources/css/vertical-rhythm.min.css">
