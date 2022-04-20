@@ -3,8 +3,8 @@ $title = "About Me | jsm33t";
 $description = "Basic flex stuffs and all";
 $logo = "white";
 $me = ' href="/me" onClick="return false;" class="active" ';
-$cur_stroke = "#8badd9";
-$prog_color = "#8badd9";
+$cur_stroke = "#747c71";
+$prog_color = "#747c71";
 $logo_visibility = "d-none d-md-block d-lg-block";
 include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
 ?>      
@@ -50,15 +50,15 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 ' Exploring Music beyond the genres '
                                 </p>
                                 <footer>
-                                    Lorem Ipsum Falana Dhimkana
+                                    YA YOU GOT IT, I SUCK AT CONTENT WRITING
                                 </footer>
                             </blockquote>
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                            Jasmeet Singh a.k.a JSM33T is an electronic music producer from Jharsuguda, IN. known for his rendition and fusion of Bollywood with various genres which gained support from DJ nYk, Asad Gujral, DJ Richard, Akbar Sami and many more.
+                            Jasmeet Singh a.k.a JSM33T is an electronic music producer from Jharsuguda, IN. known for his rendition and fusion of Bollywood with various genres which gained support from DJ nYk, Asad Gujral, DJ Richard, Akbar Sami, KSW and many more.
                         </div>
                         <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30 justify">
-                            His recent original "Melancholy" released worldwide and gained support from some great names from the industry including Angus Powel.
+                            His recent original "Melancholy" released worldwide gaining support from     great names from the industry including Angus Powel.
                             The guy behind one of the official soundtracks from the netflix series "Elementary"
                         </div>
                     </div>
