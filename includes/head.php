@@ -36,49 +36,6 @@
                 --cursor-fill: none;
                 --cursor-stroke-width: 1px;
             }
-            
-            ::-webkit-scrollbar {
-            width: 0px;
-            }
-
-            .center_text {
-            text-align: center;
-            }
-            .justify {
-            text-align: justify;
-            text-justify: inter-word;
-            }
-            .rcorner10
-            {
-                border-radius: 10px;
-            }
-
-            .ind_14
-            {
-                text-indent: 0.35em;
-            }
-
-            .ind-7
-            {
-                ext-indent: 2px;
-            }
-
-            .header {
-            position: fixed;
-            top: 0;
-            z-index: 1;
-            width: 100%;
-            background-color: #f1f1f1;
-            }
-
-
-            .progress-container {
-            width: 100%;
-            height: 0px;
-            background: #000;
-            opacity:0.8;
-            
-            }
       <?php if(!isset($prog_color)){ $prog_color = '#1d978d';} ?>
             .progress-bar {
             height: 3px;
@@ -86,95 +43,11 @@
             width: 0%;
             
             }
-            a.link-to-top-white{
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
-    color: rgba(255,255,255, .2);
-    font-size: 48px;
-}
-a.link-to-top-white:hover{
-    color: rgba(255,255,255, .8);
-}
-
-.footer-social-links-black a{
-    width: 25px;
-    height: 25px;
-    line-height: 25px !important;
-    position: relative;
-    margin: 0 6px;
-    text-align: center;
-    display: inline-block;
-    color: #111;
-    
-    -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
-    -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
-    -o-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-    -ms-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
-    transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-}
-.footer-social-links-black a i,
-.footer-social-links-black a span[class^=icon]{
-    position: relative;
-    top: 0;
-    left: 0; 
-}
-.footer-social-links-black a:before{
-    content: "";
-    display: inline-block;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    border: 1px solid #ffffff9f;
-    
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    border-radius: 2px;
-    
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-    
-    -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
-    -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
-    -o-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-    -ms-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
-    transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
-    
-}
-.footer-social-links-black a:hover{
-    color: #ffffff4b;
-}
-.footer-social-links-black a:hover:before{
-    background: #ffffff4b;
-}
+           
 
         </style>
         <script>
-        function showResult(str) {
-        if (str.length==0) {
-            document.getElementById("livesearch").innerHTML="";
-            document.getElementById("livesearch").style.border="0px";
-            return;
-        }
-        var xmlhttp=new XMLHttpRequest();
-        xmlhttp.onreadystatechange=function() {
-            if (this.readyState==4 && this.status==200) {
-            document.getElementById("livesearch").innerHTML=this.responseText;
-            document.getElementById("livesearch").style.border="1px solid #A5ACB2";
-            }
-        }
-        xmlhttp.open("GET","/includes/livesearch.php?q="+str,true);
-        xmlhttp.send();
-        }
+     
         </script>
     </head>
   
