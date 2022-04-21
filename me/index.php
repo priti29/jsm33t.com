@@ -46,7 +46,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                     <div class="row">
                         <div class="col-md-4">
                             <blockquote>
-                                <p>
+                                <p class="olive">
                                 ' Exploring Music beyond the genres '
                                 </p>
                                 <footer>

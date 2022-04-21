@@ -21,27 +21,7 @@
         <link rel="stylesheet" href="/resources/css/owl.carousel.css">
         <link rel="stylesheet" href="/resources/css/magnific-popup.css">
         <style>
-            body {
-                margin: 0;
-                --color-link: #000;
-                --color-link-hover: #040203;
-                --color-content: #040203;
-                --font-alt: freight-display-pro, serif;
-                color: var(--color-text);
-                background-color: var(--color-bg);
-                font-family: soleil, sans-serif;
-                -webkit-font-smoothing: antialiased;
-                -moz-osx-font-smoothing: grayscale;
-                --cursor-stroke: <?php echo $cur_stroke?>;
-                --cursor-fill: none;
-                --cursor-stroke-width: 1px;
-            }
-      <?php if(!isset($prog_color)){ $prog_color = '#1d978d';} ?>
-            .progress-bar {
-            height: 3px;
-            background: <?php echo $prog_color?>;
-            width: 0%;
-            
+           
             }
            
 
