@@ -5,6 +5,7 @@
 !.vscode/extensions.json
 /admin/*
 /ignore/*
+/rough/*
 .VSCodeCounter/*
 notes.md
 
